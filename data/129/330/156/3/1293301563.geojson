@@ -63,7 +63,7 @@
         "wk:page":"Donji_Hasi%C4%87"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5aac0681382b4001ee46fe35c786ac60",
+    "wof:geomhash":"558b1be32d39cb42a923d163b7425684",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.45732000000001,
     45.02753
 ],
-  "geometry": {"coordinates":[18.45732000000001,45.02753],"type":"Point"}
+  "geometry": {"coordinates":[18.45732,45.02753],"type":"Point"}
 }

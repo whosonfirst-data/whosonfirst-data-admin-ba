@@ -51,7 +51,7 @@
         "wk:page":"Zakutnica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"aeb612600245f380d5d16a615f29b6ef",
+    "wof:geomhash":"c7cc80a893789eb225f3c730ceb8e9d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.39154,
     44.05589000000001
 ],
-  "geometry": {"coordinates":[18.39154,44.05589000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.39154,44.05589],"type":"Point"}
 }

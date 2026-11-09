@@ -54,7 +54,7 @@
         "wk:page":"Vedro_Polje%2C_Bosanski_Petrovac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5827436fff98e7a9e76f7426926b58d4",
+    "wof:geomhash":"1b3504f2e19bea39ed74320b52e3048c",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -77,5 +77,5 @@
     16.38182999999999,
     44.50366
 ],
-  "geometry": {"coordinates":[16.38182999999999,44.50366],"type":"Point"}
+  "geometry": {"coordinates":[16.38183,44.50366],"type":"Point"}
 }

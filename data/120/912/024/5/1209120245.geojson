@@ -61,7 +61,7 @@
         "wk:page":"%C5%BDivalji"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3987de06455054b578db16b94fa68981",
+    "wof:geomhash":"51fa991f94fb8e361262a1eb1b81cb63",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -84,5 +84,5 @@
     18.17222000000001,
     44.13694
 ],
-  "geometry": {"coordinates":[18.17222000000001,44.13694],"type":"Point"}
+  "geometry": {"coordinates":[18.17222,44.13694],"type":"Point"}
 }

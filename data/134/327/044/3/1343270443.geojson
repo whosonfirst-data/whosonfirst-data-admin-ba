@@ -64,7 +64,7 @@
         "wk:page":"Kalimani%C4%87i_%28Srebrenica%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6d813dba71e1376b4f2fe16da66aedc8",
+    "wof:geomhash":"f138dd9d7d4725a8b491f216d58d7316",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     19.57472000000001,
     44.01278
 ],
-  "geometry": {"coordinates":[19.57472000000001,44.01278],"type":"Point"}
+  "geometry": {"coordinates":[19.57472,44.01278],"type":"Point"}
 }

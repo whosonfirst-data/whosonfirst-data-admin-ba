@@ -60,7 +60,7 @@
         "wk:page":"Kova%C4%8Devci_%28Derventa%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ae64716348a367254a1481325802e91c",
+    "wof:geomhash":"1acbd334e4a926c3cce9867fcb4a94b8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     16.83527999999999,
     44.06639000000001
 ],
-  "geometry": {"coordinates":[16.83527999999999,44.06639000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.83528,44.06639],"type":"Point"}
 }

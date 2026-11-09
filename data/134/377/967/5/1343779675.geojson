@@ -60,7 +60,7 @@
         "wk:page":"%C5%A0eva%C5%A1_Njive"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d8fb437b3caab289d575c2dc6e280a03",
+    "wof:geomhash":"7f8cadd4ac24354ca0fbcbb77f52c713",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.75417999999999,
     43.15267
 ],
-  "geometry": {"coordinates":[17.75417999999999,43.15267],"type":"Point"}
+  "geometry": {"coordinates":[17.75418,43.15267],"type":"Point"}
 }

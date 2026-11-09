@@ -60,7 +60,7 @@
         "wk:page":"Obre"
     },
     "wof:country":"BA",
-    "wof:geomhash":"55fa7c93d4f45724c0970e10d2d04a02",
+    "wof:geomhash":"8806cff1a234f2c6cb6087c94072eb1d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.13947000000001,
     44.1028
 ],
-  "geometry": {"coordinates":[18.13947000000001,44.1028],"type":"Point"}
+  "geometry": {"coordinates":[18.13947,44.1028],"type":"Point"}
 }

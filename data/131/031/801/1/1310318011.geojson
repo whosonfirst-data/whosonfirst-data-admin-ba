@@ -51,7 +51,7 @@
         "wk:page":"Cvr%C4%8Di%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7c790e1265bb8b9972a6d7f78d8cffbc",
+    "wof:geomhash":"1855ff42a8ca1161d25fe82fd1f87c18",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.64107000000001,
     44.01227
 ],
-  "geometry": {"coordinates":[18.64107000000001,44.01227],"type":"Point"}
+  "geometry": {"coordinates":[18.64107,44.01227],"type":"Point"}
 }

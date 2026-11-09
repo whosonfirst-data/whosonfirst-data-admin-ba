@@ -54,7 +54,7 @@
         "wk:page":"Vujinovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"830d3241339344318a9267e45103ec71",
+    "wof:geomhash":"9cabf498118407db96dddf16bacc1a80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.55267000000001,
     43.61709000000001
 ],
-  "geometry": {"coordinates":[18.55267000000001,43.61709000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.55267,43.61709],"type":"Point"}
 }

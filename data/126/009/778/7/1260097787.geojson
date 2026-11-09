@@ -38,7 +38,7 @@
         "wk:page":"Gajevi_%28Ilija%C5%A1%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"aaead6bf309ce45a05cb42d44710e6ca",
+    "wof:geomhash":"a11ba715503205984f4456deda2c5393",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,5 +64,5 @@
     18.51729,
     44.03234000000001
 ],
-  "geometry": {"coordinates":[18.51729,44.03234000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.51729,44.03234],"type":"Point"}
 }

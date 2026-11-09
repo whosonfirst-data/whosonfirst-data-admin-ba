@@ -51,7 +51,7 @@
         "wk:page":"Zlotege"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4e983807310b612a64ed8e48b3ed6692",
+    "wof:geomhash":"acd4d668c94b96019921ae3bd2b6f3c7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.47528,
     44.07167000000001
 ],
-  "geometry": {"coordinates":[18.47528,44.07167000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47528,44.07167],"type":"Point"}
 }

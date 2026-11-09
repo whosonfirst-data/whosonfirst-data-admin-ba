@@ -60,7 +60,7 @@
         "wk:page":"Karakaj"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8fe6a015038a8b4aed1a9de40c97ff5d",
+    "wof:geomhash":"ec65120e60ba0f9229bcfa55d7029bdf",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -83,5 +83,5 @@
     19.12435,
     44.41399000000001
 ],
-  "geometry": {"coordinates":[19.12435,44.41399000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.12435,44.41399],"type":"Point"}
 }

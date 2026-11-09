@@ -60,7 +60,7 @@
         "wk:page":"Ba%C5%A1i%C4%87i_%28Kakanj%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"91f87fa960cd4963a23322ad101e214b",
+    "wof:geomhash":"162fa05d2c5a2fdf477477047079e6ed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.11176,
     44.23419000000001
 ],
-  "geometry": {"coordinates":[18.11176,44.23419000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.11176,44.23419],"type":"Point"}
 }

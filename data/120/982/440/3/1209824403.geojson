@@ -51,7 +51,7 @@
         "wk:page":"Donje_Me%C4%91u%C5%A1e"
     },
     "wof:country":"BA",
-    "wof:geomhash":"386965c9c53d8f254c60b9318bb7432c",
+    "wof:geomhash":"74e6b5ac75fd16bc98074b993b30467b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.45207000000001,
     43.8136
 ],
-  "geometry": {"coordinates":[18.45207000000001,43.8136],"type":"Point"}
+  "geometry": {"coordinates":[18.45207,43.8136],"type":"Point"}
 }

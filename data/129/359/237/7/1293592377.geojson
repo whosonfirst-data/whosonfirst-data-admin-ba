@@ -63,7 +63,7 @@
         "wk:page":"Malo_Dvori%C5%A1te"
     },
     "wof:country":"BA",
-    "wof:geomhash":"cb864adb3ba83cd9c5c6d639e45eb3e1",
+    "wof:geomhash":"9070c373516abeb54a936986027fe22c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     16.68127999999999,
     45.11792
 ],
-  "geometry": {"coordinates":[16.68127999999999,45.11792],"type":"Point"}
+  "geometry": {"coordinates":[16.68128,45.11792],"type":"Point"}
 }

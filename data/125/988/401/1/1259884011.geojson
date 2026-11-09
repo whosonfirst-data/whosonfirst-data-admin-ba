@@ -51,7 +51,7 @@
         "wk:page":"Doci_%28%C5%A0iroki_Brijeg%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0e1ecb5e2415a715aaf50b54531b1c23",
+    "wof:geomhash":"fe4f8adebd6efb17f59596964738f66d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     17.47182999999999,
     43.26101
 ],
-  "geometry": {"coordinates":[17.47182999999999,43.26101],"type":"Point"}
+  "geometry": {"coordinates":[17.47183,43.26101],"type":"Point"}
 }

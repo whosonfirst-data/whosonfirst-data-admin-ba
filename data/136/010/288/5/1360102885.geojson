@@ -45,7 +45,7 @@
         "wk:page":"Durakovi%C4%87i_%28Trnovo%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f402b9061d8903e9aafe2943b5c39ee8",
+    "wof:geomhash":"bfa86a1c1218b6b4f5fc5cf1da030ae0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     18.51486,
     43.69544000000001
 ],
-  "geometry": {"coordinates":[18.51486,43.69544000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.51486,43.69544],"type":"Point"}
 }

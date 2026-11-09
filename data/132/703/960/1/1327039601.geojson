@@ -60,7 +60,7 @@
         "wk:page":"Zuki%C4%87i_%28Kalesija%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f783e14e9cd537bc542f9a75d4e86cd2",
+    "wof:geomhash":"5a4b3dd98192d7010bb7abd3abaffa9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.94212000000001,
     44.45763
 ],
-  "geometry": {"coordinates":[18.94212000000001,44.45763],"type":"Point"}
+  "geometry": {"coordinates":[18.94212,44.45763],"type":"Point"}
 }

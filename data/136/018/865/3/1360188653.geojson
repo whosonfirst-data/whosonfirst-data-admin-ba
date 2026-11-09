@@ -48,7 +48,7 @@
         "wk:page":"Kalac_%28Gora%C5%BEde%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ec01b96f742a9bd1c20ac0098091e980",
+    "wof:geomhash":"71093dd8b53776f1bda48665072e5832",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.94524,
     43.63464000000001
 ],
-  "geometry": {"coordinates":[18.94524,43.63464000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.94524,43.63464],"type":"Point"}
 }

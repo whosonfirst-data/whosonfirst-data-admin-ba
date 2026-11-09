@@ -54,7 +54,7 @@
         "wk:page":"Zaseok"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b5ace64272dd63984172fa448d613100",
+    "wof:geomhash":"6f7ed598e4d81448f78e521876581dcd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.25607999999999,
     44.19531
 ],
-  "geometry": {"coordinates":[16.25607999999999,44.19531],"type":"Point"}
+  "geometry": {"coordinates":[16.25608,44.19531],"type":"Point"}
 }

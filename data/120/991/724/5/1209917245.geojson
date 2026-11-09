@@ -60,7 +60,7 @@
         "wk:page":"Da%C5%BEnica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"76a00628c0e5091ab51c9675e958613d",
+    "wof:geomhash":"9748f878235066c08586fb07abe381aa",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.94693999999999,
     44.90196
 ],
-  "geometry": {"coordinates":[17.94693999999999,44.90196],"type":"Point"}
+  "geometry": {"coordinates":[17.94694,44.90196],"type":"Point"}
 }

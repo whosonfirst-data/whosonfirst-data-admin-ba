@@ -57,7 +57,7 @@
         "wk:page":"Vr%C5%BEerala"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0f58ba4a67f5750116c2e8ad1189ee44",
+    "wof:geomhash":"636921d9353fcb54b4f9f175d63710ad",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     16.97797000000001,
     43.71685
 ],
-  "geometry": {"coordinates":[16.97797000000001,43.71685],"type":"Point"}
+  "geometry": {"coordinates":[16.97797,43.71685],"type":"Point"}
 }

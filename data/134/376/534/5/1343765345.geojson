@@ -63,7 +63,7 @@
         "wk:page":"Likari"
     },
     "wof:country":"BA",
-    "wof:geomhash":"62c16a076bf935485cd8c11e30340bae",
+    "wof:geomhash":"13cfed83d612dbd251f89a56d3cdc75b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     19.30194,
     44.13914000000001
 ],
-  "geometry": {"coordinates":[19.30194,44.13914000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.30194,44.13914],"type":"Point"}
 }

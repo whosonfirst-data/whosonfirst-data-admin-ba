@@ -69,7 +69,7 @@
         "wk:page":"Viki%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ca547071873b1892bb65ae2203fd0ac0",
+    "wof:geomhash":"33df8e9926c58f849b4b7da97dd9f087",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     15.77583,
     44.89194000000001
 ],
-  "geometry": {"coordinates":[15.77583,44.89194000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.77583,44.89194],"type":"Point"}
 }

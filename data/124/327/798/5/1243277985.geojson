@@ -48,7 +48,7 @@
         "wk:page":"Goj%C4%8Din_Crnojevi%C4%87"
     },
     "wof:country":"BA",
-    "wof:geomhash":"65b29ae00c0a0c3195f5aa89e2aab8de",
+    "wof:geomhash":"f7be6bdab11601851f268762296a0c33",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.86667000000001,
     44.48333
 ],
-  "geometry": {"coordinates":[18.86667000000001,44.48333],"type":"Point"}
+  "geometry": {"coordinates":[18.86667,44.48333],"type":"Point"}
 }

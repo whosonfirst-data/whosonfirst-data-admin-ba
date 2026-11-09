@@ -63,7 +63,7 @@
         "wk:page":"Repovica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d77fbaec4c434c770f156a127d63f549",
+    "wof:geomhash":"563fdc947744d04260790ab59a6fabda",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.96157999999999,
     43.65827
 ],
-  "geometry": {"coordinates":[17.96157999999999,43.65827],"type":"Point"}
+  "geometry": {"coordinates":[17.96158,43.65827],"type":"Point"}
 }

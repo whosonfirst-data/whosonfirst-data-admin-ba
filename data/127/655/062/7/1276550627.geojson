@@ -57,7 +57,7 @@
         "wk:page":"Prisoje_%28Vi%C5%A1egrad%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"037852df98bbbc6469a5d5b9609c9d65",
+    "wof:geomhash":"1369edd1cf13f1a407f6b2d367c12a35",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.46652000000001,
     43.74296
 ],
-  "geometry": {"coordinates":[19.46652000000001,43.74296],"type":"Point"}
+  "geometry": {"coordinates":[19.46652,43.74296],"type":"Point"}
 }

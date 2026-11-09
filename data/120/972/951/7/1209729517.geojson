@@ -60,7 +60,7 @@
         "wk:page":"Rado%C5%A1i%2C_Tomislavgrad"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c37458068ca4cb56a7238e5d382cfa4f",
+    "wof:geomhash":"a8a9fee70dd18f1e5be6a6ee6176e8af",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.20051,
     43.58224000000001
 ],
-  "geometry": {"coordinates":[17.20051,43.58224000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.20051,43.58224],"type":"Point"}
 }

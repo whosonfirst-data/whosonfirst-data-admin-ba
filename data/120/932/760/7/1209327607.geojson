@@ -38,7 +38,7 @@
         "wk:page":"Bo%C5%A1anje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0c475f45bddb4a295d4ea8da79384677",
+    "wof:geomhash":"671007f8c100c9db92fe060cd02597ec",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -61,5 +61,5 @@
     18.93302000000001,
     43.58606
 ],
-  "geometry": {"coordinates":[18.93302000000001,43.58606],"type":"Point"}
+  "geometry": {"coordinates":[18.93302,43.58606],"type":"Point"}
 }

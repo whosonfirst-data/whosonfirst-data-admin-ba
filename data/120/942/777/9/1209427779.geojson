@@ -48,7 +48,7 @@
         "wk:page":"Mrnji%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"add4cff7881240b8458b48115d04d6ff",
+    "wof:geomhash":"e84eeaabc4e9dede87df2d30fd214bf0",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     18.26099,
     42.66634000000001
 ],
-  "geometry": {"coordinates":[18.26099,42.66634000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26099,42.66634],"type":"Point"}
 }

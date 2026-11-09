@@ -48,7 +48,7 @@
         "wk:page":"Miletine"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f1da585dd3d25362db1f2a934a8a0a43",
+    "wof:geomhash":"7580a31a413773c6abe010021927f3e8",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     18.70272000000001,
     44.0102
 ],
-  "geometry": {"coordinates":[18.70272000000001,44.0102],"type":"Point"}
+  "geometry": {"coordinates":[18.70272,44.0102],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Jezero%2C_Republika_Srpska"
     },
     "wof:country":"BA",
-    "wof:geomhash":"40310afe438131eda3a02bcd9fea9f46",
+    "wof:geomhash":"f148e8667e8889cf3af81fe4c3df6d16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     17.1688,
     44.34954000000001
 ],
-  "geometry": {"coordinates":[17.1688,44.34954000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.1688,44.34954],"type":"Point"}
 }

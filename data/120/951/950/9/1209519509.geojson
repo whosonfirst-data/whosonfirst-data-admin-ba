@@ -51,7 +51,7 @@
         "wk:page":"%C5%A0u%C5%A1ljici"
     },
     "wof:country":"BA",
-    "wof:geomhash":"cff65c13e38ee5bdca50381c5858df8a",
+    "wof:geomhash":"381c3f960bf9c8aeee3bc06e9dbd701b",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -74,5 +74,5 @@
     17.54957000000001,
     44.04165
 ],
-  "geometry": {"coordinates":[17.54957000000001,44.04165],"type":"Point"}
+  "geometry": {"coordinates":[17.54957,44.04165],"type":"Point"}
 }

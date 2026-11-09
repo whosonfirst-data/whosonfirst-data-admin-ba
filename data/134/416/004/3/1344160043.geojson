@@ -60,7 +60,7 @@
         "wk:page":"Blju%C5%A1tevac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7778d3f27a967546996c3ec8fb038b56",
+    "wof:geomhash":"c7ffe652058f88441a0a09985ea138c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.60123,
     43.88614000000001
 ],
-  "geometry": {"coordinates":[18.60123,43.88614000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.60123,43.88614],"type":"Point"}
 }

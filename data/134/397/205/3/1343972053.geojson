@@ -60,7 +60,7 @@
         "wk:page":"Mali_Ogra%C4%91enik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"23c2e7c4ed0cfb571b3ccebe9066912e",
+    "wof:geomhash":"2309cfeaa5ff97cd4e3b5b2cf3593432",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.63856000000001,
     43.26876
 ],
-  "geometry": {"coordinates":[17.63856000000001,43.26876],"type":"Point"}
+  "geometry": {"coordinates":[17.63856,43.26876],"type":"Point"}
 }

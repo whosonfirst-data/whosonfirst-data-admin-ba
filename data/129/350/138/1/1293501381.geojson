@@ -51,7 +51,7 @@
         "wk:page":"O%C4%8Dehni%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"19c32fd6c4d23869f8a3fa07970660b8",
+    "wof:geomhash":"fde766a469ebed67fd6c5df45b477c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     17.90047999999999,
     44.07169
 ],
-  "geometry": {"coordinates":[17.90047999999999,44.07169],"type":"Point"}
+  "geometry": {"coordinates":[17.90048,44.07169],"type":"Point"}
 }

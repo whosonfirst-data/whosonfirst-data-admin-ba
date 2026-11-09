@@ -57,7 +57,7 @@
         "wk:page":"Gornje_Vi%C5%A1njevice"
     },
     "wof:country":"BA",
-    "wof:geomhash":"82ee30cc746f645eaf28462f87b7de4c",
+    "wof:geomhash":"2b05f13048a6a3b1df0c373f0aa4dbbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.87063999999999,
     43.74712
 ],
-  "geometry": {"coordinates":[17.87063999999999,43.74712],"type":"Point"}
+  "geometry": {"coordinates":[17.87064,43.74712],"type":"Point"}
 }

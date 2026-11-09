@@ -42,7 +42,7 @@
         "wk:page":"Jasenovo_%28Fo%C4%8Da%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3f6d5de73cb33bed673becbd647c1ca8",
+    "wof:geomhash":"1e507d3936ca682b7123fd37cd2954b6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     18.61118,
     43.55354000000001
 ],
-  "geometry": {"coordinates":[18.61118,43.55354000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.61118,43.55354],"type":"Point"}
 }

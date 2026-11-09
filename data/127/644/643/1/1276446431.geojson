@@ -54,7 +54,7 @@
         "wk:page":"%C5%A0udine"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e644093090ea435f20d5421f28da85b3",
+    "wof:geomhash":"b7d665ab13cc345978dbfcdbfd7707ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.93716000000001,
     44.09447
 ],
-  "geometry": {"coordinates":[17.93716000000001,44.09447],"type":"Point"}
+  "geometry": {"coordinates":[17.93716,44.09447],"type":"Point"}
 }

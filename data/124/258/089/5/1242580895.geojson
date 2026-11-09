@@ -51,7 +51,7 @@
         "wk:page":"%C4%8Citluci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4bd056420ac25925361441e34671cd37",
+    "wof:geomhash":"3d293b687fe07cb30681f191eae3ac6b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.84812,
     43.88809000000001
 ],
-  "geometry": {"coordinates":[18.84812,43.88809000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.84812,43.88809],"type":"Point"}
 }

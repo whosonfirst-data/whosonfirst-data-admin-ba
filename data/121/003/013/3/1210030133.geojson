@@ -42,7 +42,7 @@
         "wk:page":"Jasenica_%28%C4%8Capljina%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b0706eb49e4ff5f7fc1de5961e22824d",
+    "wof:geomhash":"01ab2da682965102701bd3e9c7d18653",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     17.64512000000001,
     43.11201
 ],
-  "geometry": {"coordinates":[17.64512000000001,43.11201],"type":"Point"}
+  "geometry": {"coordinates":[17.64512,43.11201],"type":"Point"}
 }

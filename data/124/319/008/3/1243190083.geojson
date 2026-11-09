@@ -60,7 +60,7 @@
         "wk:page":"Duratbegov_Dolac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"114498477bdfd98304a999ccda2dbd52",
+    "wof:geomhash":"402eb3affac93b0516886b64f967babc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.52923,
     43.96344000000001
 ],
-  "geometry": {"coordinates":[17.52923,43.96344000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.52923,43.96344],"type":"Point"}
 }

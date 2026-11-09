@@ -41,7 +41,7 @@
         "wk:page":"Mu%C5%A1i%C4%87i_%28Vi%C5%A1egrad%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b8e1501224eebe0b75b8b240664e562e",
+    "wof:geomhash":"54a04f068cf414bc4f91072ac96b2305",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     19.26222000000001,
     43.83139
 ],
-  "geometry": {"coordinates":[19.26222000000001,43.83139],"type":"Point"}
+  "geometry": {"coordinates":[19.26222,43.83139],"type":"Point"}
 }

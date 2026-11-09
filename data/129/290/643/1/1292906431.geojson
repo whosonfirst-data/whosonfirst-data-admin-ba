@@ -54,7 +54,7 @@
         "wk:page":"Trpinje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"82faf5e0341af9158cec6a773a112f92",
+    "wof:geomhash":"7776e1cca9dfa995276bf48670be1efe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     19.0407,
     43.54600000000001
 ],
-  "geometry": {"coordinates":[19.0407,43.54600000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.0407,43.546],"type":"Point"}
 }

@@ -46,7 +46,7 @@
         "wk:page":"Carevo_Polje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"350d4ee1966573d9e6ddd767232cfff3",
+    "wof:geomhash":"a00487c5196e0da0820ffd52d53a6c3d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     17.26947,
     44.35469000000001
 ],
-  "geometry": {"coordinates":[17.26947,44.35469000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.26947,44.35469],"type":"Point"}
 }

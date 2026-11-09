@@ -38,7 +38,7 @@
         "wk:page":"Borak_Brdo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"055c86c205ba6f8cd781a7ddd39dde9a",
+    "wof:geomhash":"bf967406e9be8f4048eff3ae883973cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -64,5 +64,5 @@
     19.02625,
     43.70059000000001
 ],
-  "geometry": {"coordinates":[19.02625,43.70059000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.02625,43.70059],"type":"Point"}
 }

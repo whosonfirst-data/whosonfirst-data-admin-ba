@@ -60,7 +60,7 @@
         "wk:page":"Starposle"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9c992dfde2524cab7e113c2019fa23a3",
+    "wof:geomhash":"90fdbd588ece7cb2405c20b0c754278d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.09677000000001,
     44.22844
 ],
-  "geometry": {"coordinates":[18.09677000000001,44.22844],"type":"Point"}
+  "geometry": {"coordinates":[18.09677,44.22844],"type":"Point"}
 }

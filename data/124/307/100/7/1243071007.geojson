@@ -57,7 +57,7 @@
         "wk:page":"Kru%C5%A1%C4%8Dik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6602b49c41bd1612b9579f1cff6f7464",
+    "wof:geomhash":"a7fa592922f0ba0eb8c74dddaafd7133",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.03126,
     45.02894000000001
 ],
-  "geometry": {"coordinates":[18.03126,45.02894000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.03126,45.02894],"type":"Point"}
 }

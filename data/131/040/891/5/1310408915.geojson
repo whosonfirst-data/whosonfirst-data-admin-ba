@@ -60,7 +60,7 @@
         "wk:page":"Vlatkovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"bae5b052d8e68621923ccf6e3dbd6eaf",
+    "wof:geomhash":"7bb63c270083767378d5fd4d94f1a1d7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.50919,
     44.42684000000001
 ],
-  "geometry": {"coordinates":[17.50919,44.42684000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.50919,44.42684],"type":"Point"}
 }

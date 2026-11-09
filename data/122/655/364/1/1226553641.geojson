@@ -54,7 +54,7 @@
         "wk:page":"Krezluk"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5dd61d217459d0b0ebedc7dcc0b4ad5e",
+    "wof:geomhash":"588db6d74c2eee7f2982f8c1831793a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.37911,
     44.28129000000001
 ],
-  "geometry": {"coordinates":[17.37911,44.28129000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37911,44.28129],"type":"Point"}
 }

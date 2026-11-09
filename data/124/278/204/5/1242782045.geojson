@@ -60,7 +60,7 @@
         "wk:page":"Pao%C4%8Da"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e1c9311b230422afb5201137e429645c",
+    "wof:geomhash":"2cc0f667e33a336dd77fb470d90ba145",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.73777999999999,
     43.23222
 ],
-  "geometry": {"coordinates":[17.73777999999999,43.23222],"type":"Point"}
+  "geometry": {"coordinates":[17.73778,43.23222],"type":"Point"}
 }

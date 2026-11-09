@@ -66,7 +66,7 @@
         "wk:page":"Donja_Slabinja"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7efddf7efe0e3f2864e6d696eeb4501b",
+    "wof:geomhash":"a6b6a975a0b561555f2323018f175ade",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.63172999999999,
     45.17633
 ],
-  "geometry": {"coordinates":[16.63172999999999,45.17633],"type":"Point"}
+  "geometry": {"coordinates":[16.63173,45.17633],"type":"Point"}
 }

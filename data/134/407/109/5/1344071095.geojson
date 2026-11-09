@@ -54,7 +54,7 @@
         "wk:page":"Plo%C4%8Dari"
     },
     "wof:country":"BA",
-    "wof:geomhash":"86aee0bca51c367a242db8c88a2c56ce",
+    "wof:geomhash":"2fe1c1750d8cca920a2fa0009060bb70",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.00417999999999,
     43.97127
 ],
-  "geometry": {"coordinates":[18.00417999999999,43.97127],"type":"Point"}
+  "geometry": {"coordinates":[18.00418,43.97127],"type":"Point"}
 }

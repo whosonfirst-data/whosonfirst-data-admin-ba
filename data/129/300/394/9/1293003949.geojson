@@ -66,7 +66,7 @@
         "wk:page":"Lokvari"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a781a6337a3b742a4b19bb006651b8b4",
+    "wof:geomhash":"c9eb9147ded97651a9f23f9cc49c0e36",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     17.01767000000001,
     44.55878
 ],
-  "geometry": {"coordinates":[17.01767000000001,44.55878],"type":"Point"}
+  "geometry": {"coordinates":[17.01767,44.55878],"type":"Point"}
 }

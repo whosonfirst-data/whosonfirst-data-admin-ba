@@ -57,7 +57,7 @@
         "wk:page":"Osatica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d9eeb8f76408d9db123f2aa0fa7b0f56",
+    "wof:geomhash":"a6fd45ab874d817bd7ead5d514d0d566",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.38833,
     43.98139000000001
 ],
-  "geometry": {"coordinates":[19.38833,43.98139000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.38833,43.98139],"type":"Point"}
 }

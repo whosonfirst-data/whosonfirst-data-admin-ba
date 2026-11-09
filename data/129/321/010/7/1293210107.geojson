@@ -60,7 +60,7 @@
         "wk:page":"Vijesoli%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"961077f59ad702805daf863bd0e6fd56",
+    "wof:geomhash":"169ecba07fe7263e450e4859a37c4fd9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.22562000000001,
     44.03561
 ],
-  "geometry": {"coordinates":[18.22562000000001,44.03561],"type":"Point"}
+  "geometry": {"coordinates":[18.22562,44.03561],"type":"Point"}
 }

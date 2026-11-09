@@ -54,7 +54,7 @@
         "wk:page":"Revenik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"113d2ed9023ae0ec2b02262efac9b580",
+    "wof:geomhash":"76cff406a347dd8a098795cf0e126e8b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.325,
     44.54539000000001
 ],
-  "geometry": {"coordinates":[16.325,44.54539000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.325,44.54539],"type":"Point"}
 }

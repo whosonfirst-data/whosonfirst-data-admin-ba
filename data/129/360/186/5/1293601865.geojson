@@ -57,7 +57,7 @@
         "wk:page":"D%C5%BEimrije"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2bac992baf9d29b813f6ed0990ac3f46",
+    "wof:geomhash":"9da56e0d5c05cd7086bde3dbb89817d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.98176,
     44.00532000000001
 ],
-  "geometry": {"coordinates":[18.98176,44.00532000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.98176,44.00532],"type":"Point"}
 }

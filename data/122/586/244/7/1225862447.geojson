@@ -54,7 +54,7 @@
         "wk:page":"Grkovci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"716ee82bfcf381392928e309ada3f4b2",
+    "wof:geomhash":"a59dd7a88065f00b2602b957ec0dcc77",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.56337000000001,
     44.0913
 ],
-  "geometry": {"coordinates":[16.56337000000001,44.0913],"type":"Point"}
+  "geometry": {"coordinates":[16.56337,44.0913],"type":"Point"}
 }

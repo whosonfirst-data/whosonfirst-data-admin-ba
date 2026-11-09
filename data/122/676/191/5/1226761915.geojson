@@ -60,7 +60,7 @@
         "wk:page":"Bileti%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"468c25c6be72c3f99de18afeeea90c72",
+    "wof:geomhash":"64344905012cea47a210e83fb0640b19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.75942000000001,
     43.21529
 ],
-  "geometry": {"coordinates":[17.75942000000001,43.21529],"type":"Point"}
+  "geometry": {"coordinates":[17.75942,43.21529],"type":"Point"}
 }

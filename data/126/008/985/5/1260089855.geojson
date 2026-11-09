@@ -57,7 +57,7 @@
         "wk:page":"Dvrsnica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"330c4f32f280fa9aee41581e3f3ae7bf",
+    "wof:geomhash":"a90acc4090a83dfb9ef1c10e6e9555d9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.97097999999999,
     42.91737
 ],
-  "geometry": {"coordinates":[17.97097999999999,42.91737],"type":"Point"}
+  "geometry": {"coordinates":[17.97098,42.91737],"type":"Point"}
 }

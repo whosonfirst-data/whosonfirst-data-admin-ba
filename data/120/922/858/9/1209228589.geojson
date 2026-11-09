@@ -48,7 +48,7 @@
         "wk:page":"Duler"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c2c1284c6a51a1c54348d692351af31b",
+    "wof:geomhash":"1945877edb2a29cc8a42053cdc4cea93",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     16.26211,
     44.22434000000001
 ],
-  "geometry": {"coordinates":[16.26211,44.22434000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.26211,44.22434],"type":"Point"}
 }

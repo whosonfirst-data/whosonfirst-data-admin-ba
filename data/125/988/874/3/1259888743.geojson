@@ -51,7 +51,7 @@
         "wk:page":"Struji%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2fef3b6d640e0bfa357f3a5791622eb5",
+    "wof:geomhash":"ebcf2f8e80d05c5b3f72ddf5ae5ff647",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.01187000000001,
     42.89707
 ],
-  "geometry": {"coordinates":[18.01187000000001,42.89707],"type":"Point"}
+  "geometry": {"coordinates":[18.01187,42.89707],"type":"Point"}
 }

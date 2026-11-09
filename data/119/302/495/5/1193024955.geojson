@@ -66,7 +66,7 @@
         "wk:page":"Pervan_Donji"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2e06b35b21cb0737cf7725d52f99536b",
+    "wof:geomhash":"6d7853f769818617ec8ced06afeed2a7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     16.9869,
     44.74704000000001
 ],
-  "geometry": {"coordinates":[16.9869,44.74704000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.9869,44.74704],"type":"Point"}
 }

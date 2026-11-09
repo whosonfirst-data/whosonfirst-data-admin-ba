@@ -57,7 +57,7 @@
         "wk:page":"Udre%C5%BEnje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5326e4ac2d7f131afdf49a88351430a6",
+    "wof:geomhash":"8a7de010f81c0bcfb1d787d8b46b505c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.08864,
     43.20744000000001
 ],
-  "geometry": {"coordinates":[18.08864,43.20744000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08864,43.20744],"type":"Point"}
 }

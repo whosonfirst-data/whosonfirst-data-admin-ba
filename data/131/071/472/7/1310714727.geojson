@@ -55,7 +55,7 @@
         "wk:page":"Donja_Bode%C5%BEi%C5%A1ta"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ce141b00dc9db9f8f1b0585957ee4eab",
+    "wof:geomhash":"0ca328736a920b40528fd619a54ee46e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.47573,
     43.25239000000001
 ],
-  "geometry": {"coordinates":[18.47573,43.25239000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.47573,43.25239],"type":"Point"}
 }

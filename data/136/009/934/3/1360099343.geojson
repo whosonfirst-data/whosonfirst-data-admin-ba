@@ -54,7 +54,7 @@
         "wk:page":"Fao%C4%8Di%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7471b9dd0e1ca032935986339d022cee",
+    "wof:geomhash":"2f54cb657639605aaa91dd9429739b97",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.78972000000001,
     43.67306
 ],
-  "geometry": {"coordinates":[18.78972000000001,43.67306],"type":"Point"}
+  "geometry": {"coordinates":[18.78972,43.67306],"type":"Point"}
 }

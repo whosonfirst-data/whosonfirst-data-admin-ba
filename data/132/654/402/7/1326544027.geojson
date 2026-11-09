@@ -60,7 +60,7 @@
         "wk:page":"Pidri%C5%A1"
     },
     "wof:country":"BA",
-    "wof:geomhash":"21fa22e54fa83b38ecb122dfb50ba316",
+    "wof:geomhash":"d73d71e0003d6c7640b6350ead0b6680",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.58167000000001,
     43.88572
 ],
-  "geometry": {"coordinates":[17.58167000000001,43.88572],"type":"Point"}
+  "geometry": {"coordinates":[17.58167,43.88572],"type":"Point"}
 }

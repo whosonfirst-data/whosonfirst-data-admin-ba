@@ -63,7 +63,7 @@
         "wk:page":"Rainci_Donji"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e3cd569a932cdaba01a2ff0043190705",
+    "wof:geomhash":"1d21eebef8caf532be1f9122b16ea8b1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.8099,
     44.44204000000001
 ],
-  "geometry": {"coordinates":[18.8099,44.44204000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.8099,44.44204],"type":"Point"}
 }

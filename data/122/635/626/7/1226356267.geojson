@@ -63,7 +63,7 @@
         "wk:page":"Otele%C5%BEani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"eca928bac5c28111757579a37b97e7f8",
+    "wof:geomhash":"ceaef00d711b7f9d78b10812fcb006d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.79967000000001,
     43.76482
 ],
-  "geometry": {"coordinates":[17.79967000000001,43.76482],"type":"Point"}
+  "geometry": {"coordinates":[17.79967,43.76482],"type":"Point"}
 }

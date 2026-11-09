@@ -66,7 +66,7 @@
         "wk:page":"Mala_Daljego%C5%A1ta"
     },
     "wof:country":"BA",
-    "wof:geomhash":"53a15724b89519ff26aee3e58a9c4721",
+    "wof:geomhash":"7fc6a3248b02c86ee3759fa19bf51c74",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     19.54349,
     44.01264000000001
 ],
-  "geometry": {"coordinates":[19.54349,44.01264000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.54349,44.01264],"type":"Point"}
 }

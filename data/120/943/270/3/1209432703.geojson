@@ -54,7 +54,7 @@
         "wk:page":"Jelinak"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b6a6703f368f8f82e416bd146b53c5ec",
+    "wof:geomhash":"0b738809ea4e9d7a091db09ddb21ca0e",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -77,5 +77,5 @@
     17.88756,
     44.15049000000001
 ],
-  "geometry": {"coordinates":[17.88756,44.15049000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.88756,44.15049],"type":"Point"}
 }

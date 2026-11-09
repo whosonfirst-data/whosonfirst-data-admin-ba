@@ -41,7 +41,7 @@
         "gn:id":3259541
     },
     "wof:country":"BA",
-    "wof:geomhash":"1ff043e794391a797128278a99af6c28",
+    "wof:geomhash":"b588a03caead48d8bb6a1e2613541c27",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     18.62042000000001,
     44.58868
 ],
-  "geometry": {"coordinates":[18.62042000000001,44.58868],"type":"Point"}
+  "geometry": {"coordinates":[18.62042,44.58868],"type":"Point"}
 }

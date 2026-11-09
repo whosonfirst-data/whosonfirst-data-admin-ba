@@ -66,7 +66,7 @@
         "wk:page":"Veri%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b09967c1178abc957033b72accb60ad1",
+    "wof:geomhash":"05cc6ce003ca4e7ca88c0bea49abb438",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     17.00772000000001,
     44.92446
 ],
-  "geometry": {"coordinates":[17.00772000000001,44.92446],"type":"Point"}
+  "geometry": {"coordinates":[17.00772,44.92446],"type":"Point"}
 }

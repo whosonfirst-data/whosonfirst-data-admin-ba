@@ -57,7 +57,7 @@
         "wk:page":"Vrbljani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c9cd5c72ab3f52993cef516ce63e269e",
+    "wof:geomhash":"d1773703247c6686720c6f3db4698fa1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.97292999999999,
     43.70574000000001
 ],
-  "geometry": {"coordinates":[17.97292999999999,43.70574000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.97293,43.70574],"type":"Point"}
 }

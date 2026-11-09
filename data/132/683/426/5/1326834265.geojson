@@ -54,7 +54,7 @@
         "wk:page":"Dra%C5%BEevi%C4%87i_%28Kiseljak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4db5a2ba20d584cbfd3a4b56a4ac5a8d",
+    "wof:geomhash":"8a49e2c763c4486015ece4c139b59656",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.14952000000001,
     43.9095
 ],
-  "geometry": {"coordinates":[18.14952000000001,43.9095],"type":"Point"}
+  "geometry": {"coordinates":[18.14952,43.9095],"type":"Point"}
 }

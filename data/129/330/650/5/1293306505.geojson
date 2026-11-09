@@ -64,7 +64,7 @@
         "wk:page":"Vrto%C4%8De_%28Bosanski_Petrovac%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2dbcfa6f6aead4f3e5b150d66fca875c",
+    "wof:geomhash":"d0fedc0eb0dbeb6a9deb18de5f2ed049",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     16.17527999999999,
     44.63472
 ],
-  "geometry": {"coordinates":[16.17527999999999,44.63472],"type":"Point"}
+  "geometry": {"coordinates":[16.17528,44.63472],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Zagori%C4%8Dani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"78aa59e214884ff4caeb2e87ff093c99",
+    "wof:geomhash":"0bc0757129fd2b1505b96242c07ba856",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.08498,
     43.78769000000001
 ],
-  "geometry": {"coordinates":[17.08498,43.78769000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.08498,43.78769],"type":"Point"}
 }

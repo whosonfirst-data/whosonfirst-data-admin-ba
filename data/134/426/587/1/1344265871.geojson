@@ -57,7 +57,7 @@
         "wk:page":"Rado%C5%A1evi%C4%87i_%28Srebrenica%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6c776b0762476c4b3921796671b03480",
+    "wof:geomhash":"0f7d561c57fdc257b801836d6ad40d76",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.33927000000001,
     44.02035
 ],
-  "geometry": {"coordinates":[19.33927000000001,44.02035],"type":"Point"}
+  "geometry": {"coordinates":[19.33927,44.02035],"type":"Point"}
 }

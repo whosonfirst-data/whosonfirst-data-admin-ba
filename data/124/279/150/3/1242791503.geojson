@@ -54,7 +54,7 @@
         "wk:page":"Vrani%C4%87i_%28Gora%C5%BEde%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"44579750246a27f19c6ef542facd6b33",
+    "wof:geomhash":"64cb12090e1754c735475bdb9a2bc8bb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.90949,
     43.62544000000001
 ],
-  "geometry": {"coordinates":[18.90949,43.62544000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.90949,43.62544],"type":"Point"}
 }

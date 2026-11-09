@@ -42,7 +42,7 @@
         "wk:page":"Dubravica_%28%C4%8Capljina%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"889bcdb54fed05050ac4621a07d9c78c",
+    "wof:geomhash":"3b88bab7e8458af2a751a15ce2cdf39c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     17.73777999999999,
     43.02694
 ],
-  "geometry": {"coordinates":[17.73777999999999,43.02694],"type":"Point"}
+  "geometry": {"coordinates":[17.73778,43.02694],"type":"Point"}
 }

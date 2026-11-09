@@ -63,7 +63,7 @@
         "wk:page":"Crnopod"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fae2811634ead39e14fee00b60273013",
+    "wof:geomhash":"a507e7297f345ac906db190c1c97ee5b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.61107999999999,
     43.18722
 ],
-  "geometry": {"coordinates":[17.61107999999999,43.18722],"type":"Point"}
+  "geometry": {"coordinates":[17.61108,43.18722],"type":"Point"}
 }

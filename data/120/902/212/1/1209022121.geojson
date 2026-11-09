@@ -51,7 +51,7 @@
         "wk:page":"%C4%8Cardaci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a0fbaf7942b65b9c4198d1782d11da73",
+    "wof:geomhash":"757d19e45f19a1cb0f83b4246913762b",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -74,5 +74,5 @@
     17.55712999999999,
     44.12537
 ],
-  "geometry": {"coordinates":[17.55712999999999,44.12537],"type":"Point"}
+  "geometry": {"coordinates":[17.55713,44.12537],"type":"Point"}
 }

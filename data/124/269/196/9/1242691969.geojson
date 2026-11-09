@@ -63,7 +63,7 @@
         "wk:page":"Spiljani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8a7fe73ed56a330b9c2267a81044cea4",
+    "wof:geomhash":"7453764cb15ebd3805929c5df12c47f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.01518,
     43.62047000000001
 ],
-  "geometry": {"coordinates":[18.01518,43.62047000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.01518,43.62047],"type":"Point"}
 }

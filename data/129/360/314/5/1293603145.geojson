@@ -54,7 +54,7 @@
         "wk:page":"Rajeti%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"668b94b131e4800d77d4761da28dd871",
+    "wof:geomhash":"4493546639e9bfedc212b0e14ac7b21b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.97014,
     43.98784000000001
 ],
-  "geometry": {"coordinates":[17.97014,43.98784000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.97014,43.98784],"type":"Point"}
 }

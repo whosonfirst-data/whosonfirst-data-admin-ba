@@ -69,7 +69,7 @@
         "wk:page":"Gornja_Lupljanica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b0789510f48a6b56d360a5e7b1717097",
+    "wof:geomhash":"1f5f8fb3c9a6a5dbfef60b59ef9311d2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     17.90807000000001,
     44.91393
 ],
-  "geometry": {"coordinates":[17.90807000000001,44.91393],"type":"Point"}
+  "geometry": {"coordinates":[17.90807,44.91393],"type":"Point"}
 }

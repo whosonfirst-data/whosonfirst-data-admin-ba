@@ -69,7 +69,7 @@
         "wk:page":"Veliki_Stjenjani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d42675029eed1fbf50e5372bfdd82626",
+    "wof:geomhash":"9805c5f7f489cae2d673444ac96fd44c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     16.13709,
     44.55954000000001
 ],
-  "geometry": {"coordinates":[16.13709,44.55954000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.13709,44.55954],"type":"Point"}
 }

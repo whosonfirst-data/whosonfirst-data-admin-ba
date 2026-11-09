@@ -39,7 +39,7 @@
         "wk:page":"Svitava_%28%C4%8Capljina%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ca15d4adf282071f3e2d534a809f7297",
+    "wof:geomhash":"6d148cb182e2a675c95c9395016bccd3",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -62,5 +62,5 @@
     17.81177000000001,
     43.01476
 ],
-  "geometry": {"coordinates":[17.81177000000001,43.01476],"type":"Point"}
+  "geometry": {"coordinates":[17.81177,43.01476],"type":"Point"}
 }

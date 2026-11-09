@@ -60,7 +60,7 @@
         "wk:page":"Rainci_Gornji"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ec27c3d5fec7cefdf2a0a5a2a8fb7c27",
+    "wof:geomhash":"bf0d3d3d474b30d33832228645a28d32",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.813,
     44.46619000000001
 ],
-  "geometry": {"coordinates":[18.813,44.46619000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.813,44.46619],"type":"Point"}
 }

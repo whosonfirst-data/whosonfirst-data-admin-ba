@@ -63,7 +63,7 @@
         "wk:page":"Koturovi"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d2ac4ba90ae320d9bc50b7d0d90dbc6b",
+    "wof:geomhash":"061a56d74e47e25134b3643360088c96",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     16.83903,
     45.10534000000001
 ],
-  "geometry": {"coordinates":[16.83903,45.10534000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.83903,45.10534],"type":"Point"}
 }

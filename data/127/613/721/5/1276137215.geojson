@@ -48,7 +48,7 @@
         "wk:page":"Lukavac_%28Trnovo%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d5d506df8b099ca8b8cd3bc74dcc143b",
+    "wof:geomhash":"a7baba44dc4ad036e2e70f34dbd1a969",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.26679,
     43.68062000000001
 ],
-  "geometry": {"coordinates":[18.26679,43.68062000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.26679,43.68062],"type":"Point"}
 }

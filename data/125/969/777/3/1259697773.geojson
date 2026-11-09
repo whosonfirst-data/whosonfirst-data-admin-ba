@@ -48,7 +48,7 @@
         "wk:page":"Bojnik_%28Novi_Grad_%E2%80%93_Sarajevo%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f37652f036c0d4fc68b7aa9abf5efc74",
+    "wof:geomhash":"bd5b4922c8f8b2b583033dbd5ae2c033",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.27069,
     43.87459000000001
 ],
-  "geometry": {"coordinates":[18.27069,43.87459000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.27069,43.87459],"type":"Point"}
 }

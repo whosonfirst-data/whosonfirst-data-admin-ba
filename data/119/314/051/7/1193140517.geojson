@@ -45,7 +45,7 @@
         "wk:page":"%C4%8Celinovac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"332b02fb0e31994423984baed8aea0ef",
+    "wof:geomhash":"6d2f3078c1cd85d41ab89e2b32252c8c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     17.18622,
     45.03469000000001
 ],
-  "geometry": {"coordinates":[17.18622,45.03469000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.18622,45.03469],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Biroti%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"db587f79ecd370088a091ff04f670b73",
+    "wof:geomhash":"e0a27f438091552706b9c2dd8e0d44b4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.78754,
     43.44479000000001
 ],
-  "geometry": {"coordinates":[18.78754,43.44479000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.78754,43.44479],"type":"Point"}
 }

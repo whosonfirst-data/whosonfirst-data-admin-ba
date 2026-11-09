@@ -45,7 +45,7 @@
         "wk:page":"Slavljevi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"1f046a4110befbd8bdba42bce8bf5ffe",
+    "wof:geomhash":"17a1245c201a5244006a3f9d495f2cdd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -71,5 +71,5 @@
     18.48172000000001,
     43.69653
 ],
-  "geometry": {"coordinates":[18.48172000000001,43.69653],"type":"Point"}
+  "geometry": {"coordinates":[18.48172,43.69653],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Prisade"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9bcab6fb89b9015e6e381432d7db88d0",
+    "wof:geomhash":"e527fee561e218664732fcc935d39bbe",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.04197000000001,
     44.72893
 ],
-  "geometry": {"coordinates":[18.04197000000001,44.72893],"type":"Point"}
+  "geometry": {"coordinates":[18.04197,44.72893],"type":"Point"}
 }

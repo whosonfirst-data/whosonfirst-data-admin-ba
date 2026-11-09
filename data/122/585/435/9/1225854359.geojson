@@ -54,7 +54,7 @@
         "wk:page":"Sanica_Gornja"
     },
     "wof:country":"BA",
-    "wof:geomhash":"08a425419d55e75681bdb63613591efe",
+    "wof:geomhash":"e702e32a9c8fd4da38156fb4d478b703",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.61352999999999,
     44.6248
 ],
-  "geometry": {"coordinates":[16.61352999999999,44.6248],"type":"Point"}
+  "geometry": {"coordinates":[16.61353,44.6248],"type":"Point"}
 }

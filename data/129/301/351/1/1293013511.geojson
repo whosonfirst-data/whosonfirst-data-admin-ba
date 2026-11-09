@@ -57,7 +57,7 @@
         "wk:page":"Loznica_%28Vi%C5%A1egrad%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9521ddb289cb6d201b3ed184a465d09b",
+    "wof:geomhash":"5b6f29c6d9f0c9426ab8e4d67c1c6dee",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.27667000000001,
     43.84778
 ],
-  "geometry": {"coordinates":[19.27667000000001,43.84778],"type":"Point"}
+  "geometry": {"coordinates":[19.27667,43.84778],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Nasi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7ca702c883d0c20b7dca1d67c36a58d3",
+    "wof:geomhash":"7c494d91a6a13a21392d4e787491033e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.3475,
     44.01139000000001
 ],
-  "geometry": {"coordinates":[18.3475,44.01139000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.3475,44.01139],"type":"Point"}
 }

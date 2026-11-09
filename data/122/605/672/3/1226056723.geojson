@@ -60,7 +60,7 @@
         "wk:page":"Bilje%C5%A1evo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"75edad512e03a2f455d8d75c684e4f44",
+    "wof:geomhash":"e173884ae678f5ead6f404c78238b010",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.00398999999999,
     44.13717000000001
 ],
-  "geometry": {"coordinates":[18.00398999999999,44.13717000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.00399,44.13717],"type":"Point"}
 }

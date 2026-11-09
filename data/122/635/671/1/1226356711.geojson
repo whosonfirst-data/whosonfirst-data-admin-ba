@@ -60,7 +60,7 @@
         "wk:page":"Bor%C4%8Dani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"99013eea050e63f7fb1bcb0452087ce3",
+    "wof:geomhash":"350ebde066dd12256c099ea1ca6a9ad5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.30889,
     43.64194000000001
 ],
-  "geometry": {"coordinates":[17.30889,43.64194000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.30889,43.64194],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Pora%C4%87e"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ef1ee9a3253e60f0fae882caf15941c0",
+    "wof:geomhash":"3c9a7bd31f8893d314c4891919442502",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.97722000000001,
     43.98333
 ],
-  "geometry": {"coordinates":[17.97722000000001,43.98333],"type":"Point"}
+  "geometry": {"coordinates":[17.97722,43.98333],"type":"Point"}
 }

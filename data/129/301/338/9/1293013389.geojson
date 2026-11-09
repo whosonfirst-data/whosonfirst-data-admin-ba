@@ -60,7 +60,7 @@
         "wk:page":"Hajvazi"
     },
     "wof:country":"BA",
-    "wof:geomhash":"780b3cba573354167caabe80eff77e9d",
+    "wof:geomhash":"05106b61f6bade17765a7f237fcfcbf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.97256,
     44.41249000000001
 ],
-  "geometry": {"coordinates":[18.97256,44.41249000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.97256,44.41249],"type":"Point"}
 }

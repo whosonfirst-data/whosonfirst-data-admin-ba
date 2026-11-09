@@ -48,7 +48,7 @@
         "wk:page":"Bukovci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9eeb9531033a25b012dd11b99e5f9e42",
+    "wof:geomhash":"878362ecc5177dfda37debb98ad11a78",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     17.96016000000001,
     44.05027000000001
 ],
-  "geometry": {"coordinates":[17.96016000000001,44.05027000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.96016,44.05027],"type":"Point"}
 }

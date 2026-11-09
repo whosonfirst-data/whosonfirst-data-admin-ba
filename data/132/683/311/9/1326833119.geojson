@@ -54,7 +54,7 @@
         "wk:page":"Krna_Jela%2C_Fo%C4%8Da"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3f3f6374a3fac5b0f30d56723496fef9",
+    "wof:geomhash":"b6e21f9660f0681f6ce44a9f78c49e19",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.60391,
     43.28579000000001
 ],
-  "geometry": {"coordinates":[18.60391,43.28579000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.60391,43.28579],"type":"Point"}
 }

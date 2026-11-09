@@ -63,7 +63,7 @@
         "wk:page":"Veliki_Dubovik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3240a2cf58326fdd1a704641dbc4df30",
+    "wof:geomhash":"9e0da4037f9a64d3e44566d4eeb3c480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     16.29047000000001,
     44.84539
 ],
-  "geometry": {"coordinates":[16.29047000000001,44.84539],"type":"Point"}
+  "geometry": {"coordinates":[16.29047,44.84539],"type":"Point"}
 }

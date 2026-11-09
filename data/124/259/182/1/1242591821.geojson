@@ -54,7 +54,7 @@
         "wk:page":"Gojevi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ebeb34f54dcafce51454512f67a330c7",
+    "wof:geomhash":"61e38d33e82841914b921d2fbf11f733",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.94608999999999,
     43.91369
 ],
-  "geometry": {"coordinates":[17.94608999999999,43.91369],"type":"Point"}
+  "geometry": {"coordinates":[17.94609,43.91369],"type":"Point"}
 }

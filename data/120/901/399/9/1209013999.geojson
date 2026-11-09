@@ -48,7 +48,7 @@
         "wk:page":"Kre%C4%8Da"
     },
     "wof:country":"BA",
-    "wof:geomhash":"30506e5f4471082c12d5dbffb8ccf6a4",
+    "wof:geomhash":"997a744e155f2dee1716d3fe02caecdf",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     18.77452000000001,
     43.67717
 ],
-  "geometry": {"coordinates":[18.77452000000001,43.67717],"type":"Point"}
+  "geometry": {"coordinates":[18.77452,43.67717],"type":"Point"}
 }

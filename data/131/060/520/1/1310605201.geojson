@@ -42,7 +42,7 @@
         "wk:page":"Kutanja"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6ab85c8b18b07d6a844173776ba48993",
+    "wof:geomhash":"1838cf6db40c55dc3ded5be63080bc80",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     17.37623,
     44.13659000000001
 ],
-  "geometry": {"coordinates":[17.37623,44.13659000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.37623,44.13659],"type":"Point"}
 }

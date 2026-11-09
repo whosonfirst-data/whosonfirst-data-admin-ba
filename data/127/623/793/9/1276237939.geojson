@@ -60,7 +60,7 @@
         "wk:page":"Merd%C5%BEani%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0e8652c3a1f06f89a041cffbf5d67f17",
+    "wof:geomhash":"ee08f7a7ec307029c467bf19e4576f84",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.83077999999999,
     43.97472
 ],
-  "geometry": {"coordinates":[17.83077999999999,43.97472],"type":"Point"}
+  "geometry": {"coordinates":[17.83078,43.97472],"type":"Point"}
 }

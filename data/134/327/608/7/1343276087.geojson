@@ -54,7 +54,7 @@
         "wk:page":"Lukarice"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8288dde36392abbc553f43541a160735",
+    "wof:geomhash":"f55f2df035eb7735a6bd3dcd92b28b72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.91396,
     43.64402000000001
 ],
-  "geometry": {"coordinates":[18.91396,43.64402000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.91396,43.64402],"type":"Point"}
 }

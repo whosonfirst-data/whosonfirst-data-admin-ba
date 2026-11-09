@@ -54,7 +54,7 @@
         "wk:page":"Carev_Do"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2dec8ce29cf74c6e3c3beffb9ed31801",
+    "wof:geomhash":"1c31ff45dd340560c13ddcc899b09eed",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.84707000000001,
     43.99464
 ],
-  "geometry": {"coordinates":[17.84707000000001,43.99464],"type":"Point"}
+  "geometry": {"coordinates":[17.84707,43.99464],"type":"Point"}
 }

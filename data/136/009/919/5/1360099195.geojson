@@ -54,7 +54,7 @@
         "wk:page":"Pribelja"
     },
     "wof:country":"BA",
-    "wof:geomhash":"af79d048d6158b3a9e195ea185426247",
+    "wof:geomhash":"d6bc8393dc68129e86d98cd7d1969849",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     16.96232,
     44.14149000000001
 ],
-  "geometry": {"coordinates":[16.96232,44.14149000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.96232,44.14149],"type":"Point"}
 }

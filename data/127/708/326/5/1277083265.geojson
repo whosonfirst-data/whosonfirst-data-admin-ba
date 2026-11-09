@@ -48,7 +48,7 @@
         "wk:page":"Klanac%2C_Trnovo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f3b701478f9bc913c52348bec30e2aa1",
+    "wof:geomhash":"2b1430a313234f8b7c2c87c00d0623a8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.41537000000001,
     43.77115
 ],
-  "geometry": {"coordinates":[18.41537000000001,43.77115],"type":"Point"}
+  "geometry": {"coordinates":[18.41537,43.77115],"type":"Point"}
 }

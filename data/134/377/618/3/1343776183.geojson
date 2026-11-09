@@ -63,7 +63,7 @@
         "wk:page":"Pobr%C4%91e_Milodra%C5%BE"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fac95a4cf9bcb1737d7e1a03ea683be6",
+    "wof:geomhash":"cc924d3609eb6855eb46b440a9d9a2e9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.96927999999999,
     44.01823
 ],
-  "geometry": {"coordinates":[17.96927999999999,44.01823],"type":"Point"}
+  "geometry": {"coordinates":[17.96928,44.01823],"type":"Point"}
 }

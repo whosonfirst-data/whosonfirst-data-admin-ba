@@ -42,7 +42,7 @@
         "wk:page":"Kozice_%28Gornji_Vakuf%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9d556abe387898489de1e8cd2b23ab2f",
+    "wof:geomhash":"5751251d5b7a1e29b08427e09b816444",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     17.91211000000001,
     43.13927
 ],
-  "geometry": {"coordinates":[17.91211000000001,43.13927],"type":"Point"}
+  "geometry": {"coordinates":[17.91211,43.13927],"type":"Point"}
 }

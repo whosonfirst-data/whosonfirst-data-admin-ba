@@ -54,7 +54,7 @@
         "wk:page":"Ponju%C5%A1ina"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b459a889bfdec68d969be176263acc4e",
+    "wof:geomhash":"5b457f7aa19bfcfef906623d64d1ceaf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.96183,
     43.90799000000001
 ],
-  "geometry": {"coordinates":[17.96183,43.90799000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.96183,43.90799],"type":"Point"}
 }

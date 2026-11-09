@@ -61,7 +61,7 @@
         "wk:page":"Sr%C4%91evi%C4%87i_%28Livno%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"de68fef9551dd004d84658931331f817",
+    "wof:geomhash":"e457919047c14211ecf8110dff775aba",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     16.93576,
     43.75604000000001
 ],
-  "geometry": {"coordinates":[16.93576,43.75604000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.93576,43.75604],"type":"Point"}
 }

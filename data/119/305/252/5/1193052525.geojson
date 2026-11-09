@@ -63,7 +63,7 @@
         "wk:page":"Buzekara"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2793d9b5265f390e5af90a7711b1493f",
+    "wof:geomhash":"5e761ccde4aede5e4794e2f21c5bac9f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.86741,
     44.78807000000001
 ],
-  "geometry": {"coordinates":[18.86741,44.78807000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.86741,44.78807],"type":"Point"}
 }

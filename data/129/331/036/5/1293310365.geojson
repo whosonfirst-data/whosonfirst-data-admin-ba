@@ -57,7 +57,7 @@
         "wk:page":"Gornji_Uli%C5%A1njak"
     },
     "wof:country":"BA",
-    "wof:geomhash":"38569e89c5a7e82cd5a86d8304f13253",
+    "wof:geomhash":"89902252982d78ecde76a3ed1a563963",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.14051,
     44.53064000000001
 ],
-  "geometry": {"coordinates":[18.14051,44.53064000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.14051,44.53064],"type":"Point"}
 }

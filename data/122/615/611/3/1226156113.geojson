@@ -51,7 +51,7 @@
         "wk:page":"Dobromani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"bb193e6e7e36e82bfa248f20b7a52561",
+    "wof:geomhash":"a6bdad76ed57f55d85a4871dff22e28e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.16647,
     42.79519000000001
 ],
-  "geometry": {"coordinates":[18.16647,42.79519000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.16647,42.79519],"type":"Point"}
 }

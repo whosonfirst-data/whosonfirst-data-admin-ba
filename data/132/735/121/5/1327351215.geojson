@@ -57,7 +57,7 @@
         "wk:page":"Zaslivlje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c347021952b334a6337ce790950a9fbd",
+    "wof:geomhash":"288080638f3c5f3475e1af21f1cce9ce",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.93557000000001,
     43.65628
 ],
-  "geometry": {"coordinates":[17.93557000000001,43.65628],"type":"Point"}
+  "geometry": {"coordinates":[17.93557,43.65628],"type":"Point"}
 }

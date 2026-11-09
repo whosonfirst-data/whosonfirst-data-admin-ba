@@ -60,7 +60,7 @@
         "wk:page":"Drenova_Glavica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"836f2c0c3ff557a05c3310ec681cd32e",
+    "wof:geomhash":"30fb4fcfbb5cd3471483dbbc46e2e9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     16.14935,
     44.92149000000001
 ],
-  "geometry": {"coordinates":[16.14935,44.92149000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.14935,44.92149],"type":"Point"}
 }

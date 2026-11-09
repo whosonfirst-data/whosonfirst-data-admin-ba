@@ -60,7 +60,7 @@
         "wk:page":"Gorani_%28Konjic%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a1c545aacd5507b216521a09197ac438",
+    "wof:geomhash":"1be960937fdd1899a18d077900b20759",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.80316000000001,
     43.74856
 ],
-  "geometry": {"coordinates":[17.80316000000001,43.74856],"type":"Point"}
+  "geometry": {"coordinates":[17.80316,43.74856],"type":"Point"}
 }

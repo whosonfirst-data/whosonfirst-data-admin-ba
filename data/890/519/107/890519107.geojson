@@ -73,7 +73,7 @@
     },
     "wof:country":"BA",
     "wof:created":1469056092,
-    "wof:geomhash":"fa13fd9efb0adf637fac75c30f3ed340",
+    "wof:geomhash":"a0a646dd7cc67f3ed088e7a9d59260b3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -98,5 +98,5 @@
     17.58333,
     44.0
 ],
-  "geometry": {"coordinates":[17.58333,44.0],"type":"Point"}
+  "geometry": {"coordinates":[17.58333,44],"type":"Point"}
 }

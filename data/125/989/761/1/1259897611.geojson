@@ -51,7 +51,7 @@
         "wk:page":"Buhotina"
     },
     "wof:country":"BA",
-    "wof:geomhash":"969465d61294112c5525044afbcd99e2",
+    "wof:geomhash":"4f0c315a53bf15eb899573f8fca1e0b0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.17565,
     43.89494000000001
 ],
-  "geometry": {"coordinates":[18.17565,43.89494000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.17565,43.89494],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Preraca"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f0461c9ab9f094acb2ab6c452d18921b",
+    "wof:geomhash":"fe215f73ff83e1073e1423d4b2744480",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.46398,
     42.97519000000001
 ],
-  "geometry": {"coordinates":[18.46398,42.97519000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.46398,42.97519],"type":"Point"}
 }

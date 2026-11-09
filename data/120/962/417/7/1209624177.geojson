@@ -54,7 +54,7 @@
         "wk:page":"Gornje_Dubovo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4e18abe79df437b5cb30bdce8b89b0ec",
+    "wof:geomhash":"dfdf908874c9287e2f1b299e6ba712b1",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -77,5 +77,5 @@
     19.35222000000001,
     43.83083
 ],
-  "geometry": {"coordinates":[19.35222000000001,43.83083],"type":"Point"}
+  "geometry": {"coordinates":[19.35222,43.83083],"type":"Point"}
 }

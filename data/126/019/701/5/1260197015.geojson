@@ -54,7 +54,7 @@
         "wk:page":"Dubrave_%28Kiseljak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e8279ca4c68756de1aebd052ea20f31b",
+    "wof:geomhash":"a218de8cd837b506fdde74231c7d3378",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.01447000000001,
     43.97704
 ],
-  "geometry": {"coordinates":[18.01447000000001,43.97704],"type":"Point"}
+  "geometry": {"coordinates":[18.01447,43.97704],"type":"Point"}
 }

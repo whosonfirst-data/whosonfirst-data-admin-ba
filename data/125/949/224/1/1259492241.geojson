@@ -60,7 +60,7 @@
         "wk:page":"Batku%C5%A1a"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2ddb604cc3c2843b2434402821615434",
+    "wof:geomhash":"aa8804a163ccdafda79b28eece49d764",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.55828,
     44.98184000000001
 ],
-  "geometry": {"coordinates":[18.55828,44.98184000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.55828,44.98184],"type":"Point"}
 }

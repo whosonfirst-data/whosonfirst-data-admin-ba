@@ -51,7 +51,7 @@
         "wk:page":"%C4%8Cestaljevo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b864372f7b73e025af1fd9a1d4d526f2",
+    "wof:geomhash":"433208290d6cfebf063d36ae23a5ac3e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.34886,
     43.53384000000001
 ],
-  "geometry": {"coordinates":[18.34886,43.53384000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.34886,43.53384],"type":"Point"}
 }

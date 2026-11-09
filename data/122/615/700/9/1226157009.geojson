@@ -54,7 +54,7 @@
         "wk:page":"%C5%BDiv%C4%8Di%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f0dd225187d1e6c1f58fcc3ca1257f85",
+    "wof:geomhash":"b5447c0dd144b292c154b31f8c676cf1",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.90038999999999,
     44.02798
 ],
-  "geometry": {"coordinates":[17.90038999999999,44.02798],"type":"Point"}
+  "geometry": {"coordinates":[17.90039,44.02798],"type":"Point"}
 }

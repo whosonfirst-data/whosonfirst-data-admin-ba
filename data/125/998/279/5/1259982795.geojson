@@ -63,7 +63,7 @@
         "wk:page":"Cvrtkovci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5a761fa1a0ff7d5b901b99bab408bc97",
+    "wof:geomhash":"2cfd67a2573ea4f0a70d275acdac9feb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.84876000000001,
     44.79789
 ],
-  "geometry": {"coordinates":[17.84876000000001,44.79789],"type":"Point"}
+  "geometry": {"coordinates":[17.84876,44.79789],"type":"Point"}
 }

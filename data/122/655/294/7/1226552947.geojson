@@ -42,7 +42,7 @@
         "wk:page":"Svilile"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7ec69e74b528a5416ff5951bdffb1f6d",
+    "wof:geomhash":"1961b9ca15f19ab2b301a425b4e9b1a2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     19.10899,
     44.22414000000001
 ],
-  "geometry": {"coordinates":[19.10899,44.22414000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.10899,44.22414],"type":"Point"}
 }

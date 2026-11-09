@@ -51,7 +51,7 @@
         "wk:page":"%C5%A0ahbegovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"885ae69b3eb4597067a27218f870354b",
+    "wof:geomhash":"d2dbe83dee7ef5c11f1b289a55d8030d",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -74,5 +74,5 @@
     18.70873,
     43.97434000000001
 ],
-  "geometry": {"coordinates":[18.70873,43.97434000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.70873,43.97434],"type":"Point"}
 }

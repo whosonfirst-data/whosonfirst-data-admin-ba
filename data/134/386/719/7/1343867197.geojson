@@ -57,7 +57,7 @@
         "wk:page":"Kragujevac_%28Vi%C5%A1egrad%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3fe58787a7effa2dd50b3ef053f53206",
+    "wof:geomhash":"748074c940b02b5f3bb30fe1be93d9b7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.27094,
     43.89664000000001
 ],
-  "geometry": {"coordinates":[19.27094,43.89664000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.27094,43.89664],"type":"Point"}
 }

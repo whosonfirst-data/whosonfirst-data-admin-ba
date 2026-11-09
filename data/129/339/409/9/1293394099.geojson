@@ -60,7 +60,7 @@
         "wk:page":"Ponjevi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"3f60ea7b5adae426a161236ac00e172d",
+    "wof:geomhash":"21cd3ffbb35feaff5be66179cbb7c450",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     15.95833,
     45.04389000000001
 ],
-  "geometry": {"coordinates":[15.95833,45.04389000000001],"type":"Point"}
+  "geometry": {"coordinates":[15.95833,45.04389],"type":"Point"}
 }

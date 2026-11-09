@@ -66,7 +66,7 @@
         "wk:page":"Donji_Svilaj"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e5e45c50b127a244298bdf235972ed44",
+    "wof:geomhash":"443446915f414382f338a218202a294b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -92,5 +92,5 @@
     18.27391,
     45.10977000000001
 ],
-  "geometry": {"coordinates":[18.27391,45.10977000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.27391,45.10977],"type":"Point"}
 }

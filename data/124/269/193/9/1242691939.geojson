@@ -57,7 +57,7 @@
         "wk:page":"Hondi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0ee58bda01906c4cae97ac279329fbb9",
+    "wof:geomhash":"1433e6a53d776531540d46f1113a010a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.90017000000001,
     43.70294000000001
 ],
-  "geometry": {"coordinates":[17.90017000000001,43.70294000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.90017,43.70294],"type":"Point"}
 }

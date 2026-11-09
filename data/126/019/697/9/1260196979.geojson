@@ -57,7 +57,7 @@
         "wk:page":"Bobovi%C5%A1ta"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fd994f3c419d2791c5be1109497ba907",
+    "wof:geomhash":"05d2131088b0adace2deae343c1fac71",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.206,
     42.68004000000001
 ],
-  "geometry": {"coordinates":[18.206,42.68004000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.206,42.68004],"type":"Point"}
 }

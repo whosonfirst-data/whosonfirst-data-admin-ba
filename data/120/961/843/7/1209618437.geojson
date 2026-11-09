@@ -48,7 +48,7 @@
         "wk:page":"Mi%C4%8Divode"
     },
     "wof:country":"BA",
-    "wof:geomhash":"810b2e5a4293f95112d70ca40ee41255",
+    "wof:geomhash":"97ed3ec4232929cbe814025b13b9192c",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     18.92447,
     43.98569000000001
 ],
-  "geometry": {"coordinates":[18.92447,43.98569000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.92447,43.98569],"type":"Point"}
 }

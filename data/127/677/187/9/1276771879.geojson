@@ -63,7 +63,7 @@
         "wk:page":"Stri%C4%8Di%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"54b5785124cfb8d45352889dbf319caf",
+    "wof:geomhash":"ddc04d4603e5da468716fb64944319a4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     16.99227999999999,
     44.60943
 ],
-  "geometry": {"coordinates":[16.99227999999999,44.60943],"type":"Point"}
+  "geometry": {"coordinates":[16.99228,44.60943],"type":"Point"}
 }

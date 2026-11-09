@@ -57,7 +57,7 @@
         "wk:page":"Hubjeri"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c916bfa45bc2c1eee70753fbb535690a",
+    "wof:geomhash":"baa3f3cd54768dfe215614d5d6138648",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.0016,
     43.67834000000001
 ],
-  "geometry": {"coordinates":[19.0016,43.67834000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.0016,43.67834],"type":"Point"}
 }

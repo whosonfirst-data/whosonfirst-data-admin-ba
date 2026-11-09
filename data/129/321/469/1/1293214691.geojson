@@ -58,7 +58,7 @@
         "wk:page":"Mujakovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"1089e6e54af8c80d9fa2c1bf52e52228",
+    "wof:geomhash":"116b29440cbc71715da6f2262328946c",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -84,5 +84,5 @@
     17.81862000000001,
     43.97174
 ],
-  "geometry": {"coordinates":[17.81862000000001,43.97174],"type":"Point"}
+  "geometry": {"coordinates":[17.81862,43.97174],"type":"Point"}
 }

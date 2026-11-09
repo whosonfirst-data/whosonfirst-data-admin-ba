@@ -60,7 +60,7 @@
         "wk:page":"Privalj"
     },
     "wof:country":"BA",
-    "wof:geomhash":"171986c9ff2e6ce6e6d16631a39442e5",
+    "wof:geomhash":"aaf0558b784ad76a90564ea21a96904b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.51382000000001,
     43.3785
 ],
-  "geometry": {"coordinates":[17.51382000000001,43.3785],"type":"Point"}
+  "geometry": {"coordinates":[17.51382,43.3785],"type":"Point"}
 }

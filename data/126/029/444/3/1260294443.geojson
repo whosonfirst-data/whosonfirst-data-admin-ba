@@ -57,7 +57,7 @@
         "wk:page":"Gornja_Ri%C4%8Dica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8ced1d794f5601cda63228595dea6ea3",
+    "wof:geomhash":"07d26b901fa5a96127bf1565b30552a6",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.55569,
     43.98889000000001
 ],
-  "geometry": {"coordinates":[17.55569,43.98889000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.55569,43.98889],"type":"Point"}
 }

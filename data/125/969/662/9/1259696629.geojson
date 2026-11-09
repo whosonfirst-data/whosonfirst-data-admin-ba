@@ -41,7 +41,7 @@
         "wk:page":"Muhovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a0d05ad4b2cec7f22bd5f774a995d781",
+    "wof:geomhash":"371b1ed2b97e3e12751da1c06211fcde",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     18.48486,
     43.15394000000001
 ],
-  "geometry": {"coordinates":[18.48486,43.15394000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.48486,43.15394],"type":"Point"}
 }

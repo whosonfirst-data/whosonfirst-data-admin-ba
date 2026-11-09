@@ -57,7 +57,7 @@
         "wk:page":"%C5%A0ipovljani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d8faa9d7e6413e4c449be58eae50e8e8",
+    "wof:geomhash":"6ddcf1b1143ef124689dce34a979b817",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -80,5 +80,5 @@
     16.40305,
     44.34907000000001
 ],
-  "geometry": {"coordinates":[16.40305,44.34907000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.40305,44.34907],"type":"Point"}
 }

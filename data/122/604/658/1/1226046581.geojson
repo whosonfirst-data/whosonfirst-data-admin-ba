@@ -57,7 +57,7 @@
         "wk:page":"Homatlije"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fe093f2fdffe5f75d7159eceb7b6666a",
+    "wof:geomhash":"4ecbbc4ed39ff8896c3f8e100abb40c2",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.73082999999999,
     43.78333
 ],
-  "geometry": {"coordinates":[17.73082999999999,43.78333],"type":"Point"}
+  "geometry": {"coordinates":[17.73083,43.78333],"type":"Point"}
 }

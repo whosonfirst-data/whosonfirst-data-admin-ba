@@ -93,7 +93,7 @@
         "wk:page":"Po%C4%8Ditelj%2C_%C4%8Capljina"
     },
     "wof:country":"BA",
-    "wof:geomhash":"54bf32eb35f50e9c3eeba8c7783b8892",
+    "wof:geomhash":"626855df3fd2afb430386e4200faed5e",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -119,5 +119,5 @@
     17.73342000000001,
     43.1343
 ],
-  "geometry": {"coordinates":[17.73342000000001,43.1343],"type":"Point"}
+  "geometry": {"coordinates":[17.73342,43.1343],"type":"Point"}
 }

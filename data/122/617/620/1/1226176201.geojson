@@ -63,7 +63,7 @@
         "wk:page":"Donji_Zovik_%28Br%C4%8Dko%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"14787f7f9ec934dbcbd23becf74f21e7",
+    "wof:geomhash":"03e1231d6f2749c4f5472a15fe1d1d42",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.72726,
     44.77934000000001
 ],
-  "geometry": {"coordinates":[18.72726,44.77934000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.72726,44.77934],"type":"Point"}
 }

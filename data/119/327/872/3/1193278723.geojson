@@ -57,7 +57,7 @@
         "wk:page":"Kunovo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"cfe06756da6497377ae6c4effb0332a4",
+    "wof:geomhash":"e854e456f2dfb48492564d45b7103203",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     19.00237000000001,
     43.41651
 ],
-  "geometry": {"coordinates":[19.00237000000001,43.41651],"type":"Point"}
+  "geometry": {"coordinates":[19.00237,43.41651],"type":"Point"}
 }

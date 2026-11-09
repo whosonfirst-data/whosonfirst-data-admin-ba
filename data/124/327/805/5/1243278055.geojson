@@ -60,7 +60,7 @@
         "wk:page":"Bi%C4%8Der"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b6705c6833cb1cc6da8bf356a4c22cde",
+    "wof:geomhash":"255751e8a8c0e3a8a499264c73c26673",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.08467000000001,
     44.11568
 ],
-  "geometry": {"coordinates":[18.08467000000001,44.11568],"type":"Point"}
+  "geometry": {"coordinates":[18.08467,44.11568],"type":"Point"}
 }

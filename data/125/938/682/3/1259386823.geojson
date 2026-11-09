@@ -57,7 +57,7 @@
         "wk:page":"%C4%8Ci%C4%8Devo_%28Konjic%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"476320b2ac76b36fa46e954a932d7743",
+    "wof:geomhash":"ebbf116631bce7a2679a2d5d7cca3bbd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.06179,
     43.51844000000001
 ],
-  "geometry": {"coordinates":[18.06179,43.51844000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.06179,43.51844],"type":"Point"}
 }

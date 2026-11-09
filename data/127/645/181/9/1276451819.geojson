@@ -60,7 +60,7 @@
         "wk:page":"Dobrelji"
     },
     "wof:country":"BA",
-    "wof:geomhash":"2402d6781740be288f1a73abd85c3ad7",
+    "wof:geomhash":"6b8d980e7ee1176b12448af99613a7be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.59173,
     43.08600000000001
 ],
-  "geometry": {"coordinates":[18.59173,43.08600000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.59173,43.086],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Plavuzi"
     },
     "wof:country":"BA",
-    "wof:geomhash":"987a34bbb255ff6e650bb117c3ca0e3f",
+    "wof:geomhash":"c09fae4076ba15c7f09a328d58db3f4b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.82193999999999,
     43.83638
 ],
-  "geometry": {"coordinates":[17.82193999999999,43.83638],"type":"Point"}
+  "geometry": {"coordinates":[17.82194,43.83638],"type":"Point"}
 }

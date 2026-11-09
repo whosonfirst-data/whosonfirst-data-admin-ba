@@ -54,7 +54,7 @@
         "wk:page":"Merdani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e0361ca7abecc8c02069e76a651c1e9b",
+    "wof:geomhash":"d083574f693e74e8c663e6557bce5c93",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.9085,
     44.13267000000001
 ],
-  "geometry": {"coordinates":[17.9085,44.13267000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.9085,44.13267],"type":"Point"}
 }

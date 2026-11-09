@@ -54,7 +54,7 @@
         "wk:page":"Sudi%C4%87i_%28Ilija%C5%A1%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f177d3b267a648dc88135a88a80543ba",
+    "wof:geomhash":"dab578e9f5b6524be994be6a9a59c0e0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.54599,
     44.04949000000001
 ],
-  "geometry": {"coordinates":[18.54599,44.04949000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.54599,44.04949],"type":"Point"}
 }

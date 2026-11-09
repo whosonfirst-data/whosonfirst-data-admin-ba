@@ -48,7 +48,7 @@
         "wk:page":"Borovsko"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7c5128a66884c34ab2cf3d22afd06df2",
+    "wof:geomhash":"6fa34576e867c7379f212b1602b3f497",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.92627,
     43.86089000000001
 ],
-  "geometry": {"coordinates":[18.92627,43.86089000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.92627,43.86089],"type":"Point"}
 }

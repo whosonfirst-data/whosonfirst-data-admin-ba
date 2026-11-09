@@ -54,7 +54,7 @@
         "wk:page":"Djedov_Do"
     },
     "wof:country":"BA",
-    "wof:geomhash":"22c108e03a62bd725b8811fcadecc347",
+    "wof:geomhash":"0771986fe4a5385975afc8aab2f2fa05",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.98542999999999,
     43.90674
 ],
-  "geometry": {"coordinates":[17.98542999999999,43.90674],"type":"Point"}
+  "geometry": {"coordinates":[17.98543,43.90674],"type":"Point"}
 }

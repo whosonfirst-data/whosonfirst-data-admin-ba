@@ -69,7 +69,7 @@
         "wk:page":"Ljeskovac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c0d31cea929fa9de3a67d578d1f53c77",
+    "wof:geomhash":"58e04271bc884237c54d7d7a5a675f56",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -95,5 +95,5 @@
     19.22497000000001,
     44.71192
 ],
-  "geometry": {"coordinates":[19.22497000000001,44.71192],"type":"Point"}
+  "geometry": {"coordinates":[19.22497,44.71192],"type":"Point"}
 }

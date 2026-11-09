@@ -51,7 +51,7 @@
         "wk:page":"Donje_Kre%C4%8Dane"
     },
     "wof:country":"BA",
-    "wof:geomhash":"aa6842988b6b9c7c69ad9453f91e0043",
+    "wof:geomhash":"c53198953dd03a06289ed6f8a11d488f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.37558,
     44.86689000000001
 ],
-  "geometry": {"coordinates":[18.37558,44.86689000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.37558,44.86689],"type":"Point"}
 }

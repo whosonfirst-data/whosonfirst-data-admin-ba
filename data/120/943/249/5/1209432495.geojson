@@ -54,7 +54,7 @@
         "wk:page":"Solakovi%C4%87i_%28Kiseljak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"daf4b72975af880341448d4f59c9cf0a",
+    "wof:geomhash":"dd6793d765c78f599fdeb254c2b47ed9",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -77,5 +77,5 @@
     18.12964,
     43.84934000000001
 ],
-  "geometry": {"coordinates":[18.12964,43.84934000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.12964,43.84934],"type":"Point"}
 }

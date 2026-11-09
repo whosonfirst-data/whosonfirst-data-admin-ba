@@ -63,7 +63,7 @@
         "wk:page":"Repovci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a89cba9f882319bbdffc8b7ce0f41285",
+    "wof:geomhash":"07536ab28b9d533ee82e0d1c7280e501",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.96841000000001,
     43.75529
 ],
-  "geometry": {"coordinates":[17.96841000000001,43.75529],"type":"Point"}
+  "geometry": {"coordinates":[17.96841,43.75529],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Teku%C4%87ica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ddfd19e9a8f227603850a02b96f13ab3",
+    "wof:geomhash":"f85886e7081b7c4e40d933cbda21378f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     18.17457000000001,
     44.69495
 ],
-  "geometry": {"coordinates":[18.17457000000001,44.69495],"type":"Point"}
+  "geometry": {"coordinates":[18.17457,44.69495],"type":"Point"}
 }

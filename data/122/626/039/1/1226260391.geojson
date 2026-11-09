@@ -48,7 +48,7 @@
         "wk:page":"Gornja_Brda"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0791fe02390ed57321d751d1541c3716",
+    "wof:geomhash":"003ae297e081988493296fe33f6e1492",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.94409,
     43.65584000000001
 ],
-  "geometry": {"coordinates":[18.94409,43.65584000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.94409,43.65584],"type":"Point"}
 }

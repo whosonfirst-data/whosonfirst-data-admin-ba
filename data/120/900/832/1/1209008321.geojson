@@ -43,7 +43,7 @@
         "wk:page":"Gornji_Lukavac_%28Grada%C4%8Dac%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6667d8da84945272f36540bda044f961",
+    "wof:geomhash":"58901a80ecb54106d6d8cf1c3101fea3",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -66,5 +66,5 @@
     18.40774,
     44.85919000000001
 ],
-  "geometry": {"coordinates":[18.40774,44.85919000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.40774,44.85919],"type":"Point"}
 }

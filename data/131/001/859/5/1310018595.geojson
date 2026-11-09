@@ -51,7 +51,7 @@
         "wk:page":"Mioni%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"b3266a9700e259c3535bec0ba5df85a8",
+    "wof:geomhash":"7770298b73c1cd84f1f4f11ebbac8c99",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.23472000000001,
     42.73056
 ],
-  "geometry": {"coordinates":[18.23472000000001,42.73056],"type":"Point"}
+  "geometry": {"coordinates":[18.23472,42.73056],"type":"Point"}
 }

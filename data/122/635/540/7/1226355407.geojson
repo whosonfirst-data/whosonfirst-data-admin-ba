@@ -60,7 +60,7 @@
         "wk:page":"Gornji_Vrbljani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"caffeaa3a99e5f479e6feafdb6467a09",
+    "wof:geomhash":"fdc40dca0da6226c5c6e602c57a00572",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     16.79486,
     44.34184000000001
 ],
-  "geometry": {"coordinates":[16.79486,44.34184000000001],"type":"Point"}
+  "geometry": {"coordinates":[16.79486,44.34184],"type":"Point"}
 }

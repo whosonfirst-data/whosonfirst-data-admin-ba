@@ -60,7 +60,7 @@
         "wk:page":"%C5%BDdralovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"9cc2f6779c44cf7efc67b2aa55fdf9c9",
+    "wof:geomhash":"c5bb130cb733fb687fac4a9515973e09",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.39417000000001,
     44.06972
 ],
-  "geometry": {"coordinates":[17.39417000000001,44.06972],"type":"Point"}
+  "geometry": {"coordinates":[17.39417,44.06972],"type":"Point"}
 }

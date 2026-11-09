@@ -60,7 +60,7 @@
         "wk:page":"Vrbanja_%28Banja_Luka%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f61d712ba255a468be39b484391cacf8",
+    "wof:geomhash":"2882dccbf3ceb1e4ede9b33c13d6c685",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.24524,
     44.76459000000001
 ],
-  "geometry": {"coordinates":[17.24524,44.76459000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.24524,44.76459],"type":"Point"}
 }

@@ -54,7 +54,7 @@
         "wk:page":"Zaborani"
     },
     "wof:country":"BA",
-    "wof:geomhash":"af3365fb23b3939a7895100e4f77df12",
+    "wof:geomhash":"714483f31a5a67019ef2280a562d3f1b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.08651,
     43.46794000000001
 ],
-  "geometry": {"coordinates":[18.08651,43.46794000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.08651,43.46794],"type":"Point"}
 }

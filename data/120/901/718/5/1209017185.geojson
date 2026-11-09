@@ -54,7 +54,7 @@
         "wk:page":"Prije%C4%91el"
     },
     "wof:country":"BA",
-    "wof:geomhash":"e17360900e582ba6a6efdb1cdafcc91d",
+    "wof:geomhash":"e1bc17892d2aae476b06515498b00f56",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -77,5 +77,5 @@
     18.76765,
     43.37732000000001
 ],
-  "geometry": {"coordinates":[18.76765,43.37732000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.76765,43.37732],"type":"Point"}
 }

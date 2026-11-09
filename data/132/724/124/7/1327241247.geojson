@@ -63,7 +63,7 @@
         "wk:page":"Butmir"
     },
     "wof:country":"BA",
-    "wof:geomhash":"89248faeca8169246bc32de2811c5ff4",
+    "wof:geomhash":"bbb663e2c8fd4be30ddcd2d830937228",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.32322000000001,
     43.82044000000001
 ],
-  "geometry": {"coordinates":[18.32322000000001,43.82044000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.32322,43.82044],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Maslinovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d11392eceaa84f90b54439e6879b9773",
+    "wof:geomhash":"746038774690eb037a8a2c8ac6b2bb65",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -71,5 +71,5 @@
     17.96017999999999,
     44.02313
 ],
-  "geometry": {"coordinates":[17.96017999999999,44.02313],"type":"Point"}
+  "geometry": {"coordinates":[17.96018,44.02313],"type":"Point"}
 }

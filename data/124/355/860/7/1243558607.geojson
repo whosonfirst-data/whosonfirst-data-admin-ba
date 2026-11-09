@@ -48,7 +48,7 @@
         "wk:page":"Donja_Presjenica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8924f835d24f461088d430f3bfcc2700",
+    "wof:geomhash":"1a84ace5b9c0058d2a6e959d0d2499c4",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.36632,
     43.72329000000001
 ],
-  "geometry": {"coordinates":[18.36632,43.72329000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.36632,43.72329],"type":"Point"}
 }

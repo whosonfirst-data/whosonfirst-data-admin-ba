@@ -63,7 +63,7 @@
         "wk:page":"Mila%C4%8Devi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4c35c411d20b7f650b51170cdc496baa",
+    "wof:geomhash":"b19263b848febcba160321cf0bf3905b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     19.25361,
     44.15472000000001
 ],
-  "geometry": {"coordinates":[19.25361,44.15472000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.25361,44.15472],"type":"Point"}
 }

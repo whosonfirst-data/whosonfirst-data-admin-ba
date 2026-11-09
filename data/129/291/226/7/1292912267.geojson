@@ -60,7 +60,7 @@
         "wk:page":"Romanovci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"30ac97ebbe4578795481e8e37a11b7e5",
+    "wof:geomhash":"e90da374a9f9b04565c46c69fb7bae5d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.27171,
     44.97257000000001
 ],
-  "geometry": {"coordinates":[17.27171,44.97257000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.27171,44.97257],"type":"Point"}
 }

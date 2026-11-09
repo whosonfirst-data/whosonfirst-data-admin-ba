@@ -51,7 +51,7 @@
         "wk:page":"Jezero%2C_Kalinovik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"1f7a883f1475fd99872e1730ba96f61d",
+    "wof:geomhash":"ceeb59e0507ac75b94482954647290e7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.25612000000001,
     43.40476
 ],
-  "geometry": {"coordinates":[18.25612000000001,43.40476],"type":"Point"}
+  "geometry": {"coordinates":[18.25612,43.40476],"type":"Point"}
 }

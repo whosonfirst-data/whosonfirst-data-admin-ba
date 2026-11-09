@@ -41,7 +41,7 @@
         "wk:page":"Bjelavi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"49d65698e17da835209ccd08092e37ce",
+    "wof:geomhash":"2d1baca6c09b9ee3f2d23255e54e930f",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -67,5 +67,5 @@
     18.14555,
     44.10619000000001
 ],
-  "geometry": {"coordinates":[18.14555,44.10619000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.14555,44.10619],"type":"Point"}
 }

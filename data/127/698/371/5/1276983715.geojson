@@ -57,7 +57,7 @@
         "wk:page":"Turkovi%C4%87i_%28Sokolac%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7202e43db1d5b6b36a2039a39f1c3f7d",
+    "wof:geomhash":"8f5d49bf37ee92897a77afb2042a8fa7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.7595,
     44.00859000000001
 ],
-  "geometry": {"coordinates":[18.7595,44.00859000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.7595,44.00859],"type":"Point"}
 }

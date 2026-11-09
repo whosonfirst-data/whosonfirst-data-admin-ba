@@ -57,7 +57,7 @@
         "wk:page":"Mravi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"c1e26a7a63503c0b789baae250b4b3f9",
+    "wof:geomhash":"cdfb3350830c83647a4987c591804ecf",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -80,5 +80,5 @@
     18.05192000000001,
     44.6749
 ],
-  "geometry": {"coordinates":[18.05192000000001,44.6749],"type":"Point"}
+  "geometry": {"coordinates":[18.05192,44.6749],"type":"Point"}
 }

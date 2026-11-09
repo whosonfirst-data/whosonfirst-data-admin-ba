@@ -63,7 +63,7 @@
         "wk:page":"Ostru%C5%BEnja_Gornja"
     },
     "wof:country":"BA",
-    "wof:geomhash":"f468566e72eb412dad40608659817aa2",
+    "wof:geomhash":"6570a0475f2c94eafb51b08822cce08d",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.87917999999999,
     44.75521
 ],
-  "geometry": {"coordinates":[17.87917999999999,44.75521],"type":"Point"}
+  "geometry": {"coordinates":[17.87918,44.75521],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Od%C5%BEinci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8e99dca0e8219824dcd230f07f64964c",
+    "wof:geomhash":"ebb8951b71703a4f3d92401f259187dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     16.79282000000001,
     45.11148
 ],
-  "geometry": {"coordinates":[16.79282000000001,45.11148],"type":"Point"}
+  "geometry": {"coordinates":[16.79282,45.11148],"type":"Point"}
 }

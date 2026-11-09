@@ -54,7 +54,7 @@
         "wk:page":"Rizvi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"bdd9b0bc965c10c4064c8c9363b7007a",
+    "wof:geomhash":"94357db4ca4ad0893eb2f3fc8c51dfcf",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.91962000000001,
     44.02714
 ],
-  "geometry": {"coordinates":[17.91962000000001,44.02714],"type":"Point"}
+  "geometry": {"coordinates":[17.91962,44.02714],"type":"Point"}
 }

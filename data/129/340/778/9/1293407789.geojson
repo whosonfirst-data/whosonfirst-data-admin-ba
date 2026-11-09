@@ -57,7 +57,7 @@
         "wk:page":"Barmi%C5%A1"
     },
     "wof:country":"BA",
-    "wof:geomhash":"53b2f342aab86b438c85755a1f44488d",
+    "wof:geomhash":"1ddca0d904ad3696cc4795eb294a1ecd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.93352999999999,
     43.71921
 ],
-  "geometry": {"coordinates":[17.93352999999999,43.71921],"type":"Point"}
+  "geometry": {"coordinates":[17.93353,43.71921],"type":"Point"}
 }

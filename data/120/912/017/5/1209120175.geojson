@@ -51,7 +51,7 @@
         "wk:page":"Rili%C4%87%2C_Bosnia_and_Herzegovina"
     },
     "wof:country":"BA",
-    "wof:geomhash":"14e1bfd5348a7af36ce17e55370e0326",
+    "wof:geomhash":"9a981118d0eed06f5220dcc8b6ec14b3",
     "wof:hierarchy":[
         {
             "country_id":85632609,
@@ -74,5 +74,5 @@
     17.26515,
     43.91334000000001
 ],
-  "geometry": {"coordinates":[17.26515,43.91334000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.26515,43.91334],"type":"Point"}
 }

@@ -61,7 +61,7 @@
         "wk:page":"Miholjevine"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fa49edadc163873621de4d03555fa0a2",
+    "wof:geomhash":"3ff3a070d08f040ac8612ddf0d8f94c3",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     19.44972000000001,
     44.05194
 ],
-  "geometry": {"coordinates":[19.44972000000001,44.05194],"type":"Point"}
+  "geometry": {"coordinates":[19.44972,44.05194],"type":"Point"}
 }

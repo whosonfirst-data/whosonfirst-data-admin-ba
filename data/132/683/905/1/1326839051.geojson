@@ -54,7 +54,7 @@
         "wk:page":"Kriva%C4%8De_%28Han_Pijesak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"8d8eb895de66a386c72e76b8b99b4bde",
+    "wof:geomhash":"a8282b6a0198b3058c821bd1ec4b5c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     19.0657,
     44.06100000000001
 ],
-  "geometry": {"coordinates":[19.0657,44.06100000000001],"type":"Point"}
+  "geometry": {"coordinates":[19.0657,44.061],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Stojkovi%C4%87i_%28Kiseljak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"4584137b741f6b0c0bd7a7f04b848856",
+    "wof:geomhash":"357175a265b4f6d6df6ab48f8d72d600",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.07972,
     43.98139000000001
 ],
-  "geometry": {"coordinates":[18.07972,43.98139000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.07972,43.98139],"type":"Point"}
 }

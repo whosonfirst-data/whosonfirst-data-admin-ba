@@ -57,7 +57,7 @@
         "wk:page":"Pavice"
     },
     "wof:country":"BA",
-    "wof:geomhash":"65a79f617eaea486097171ba18b76d86",
+    "wof:geomhash":"78bb51b397bbd6a3632e89ac50d5b9dc",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.52887999999999,
     44.01656
 ],
-  "geometry": {"coordinates":[17.52887999999999,44.01656],"type":"Point"}
+  "geometry": {"coordinates":[17.52888,44.01656],"type":"Point"}
 }

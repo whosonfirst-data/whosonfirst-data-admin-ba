@@ -60,7 +60,7 @@
         "wk:page":"Ljuti_Dolac"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d7402bcb0b3a12e4ca8ece68ba7e701a",
+    "wof:geomhash":"36d5a82b4085e03ea63506cd7ae02843",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.69917000000001,
     43.30841
 ],
-  "geometry": {"coordinates":[17.69917000000001,43.30841],"type":"Point"}
+  "geometry": {"coordinates":[17.69917,43.30841],"type":"Point"}
 }

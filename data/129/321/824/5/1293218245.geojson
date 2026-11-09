@@ -48,7 +48,7 @@
         "wk:page":"%C4%8Curovi"
     },
     "wof:country":"BA",
-    "wof:geomhash":"fb788a301690ffce453041bf91492658",
+    "wof:geomhash":"99afaca78396c89f993217411cf1ba11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -74,5 +74,5 @@
     18.95817000000001,
     43.70652000000001
 ],
-  "geometry": {"coordinates":[18.95817000000001,43.70652000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.95817,43.70652],"type":"Point"}
 }

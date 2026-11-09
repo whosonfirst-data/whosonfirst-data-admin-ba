@@ -54,7 +54,7 @@
         "wk:page":"%C4%8Cengi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"aeab52a4375d312579664c3e65ed2aa1",
+    "wof:geomhash":"192f98eb52997efae8d96747c1389a29",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     19.37352000000001,
     43.7931
 ],
-  "geometry": {"coordinates":[19.37352000000001,43.7931],"type":"Point"}
+  "geometry": {"coordinates":[19.37352,43.7931],"type":"Point"}
 }

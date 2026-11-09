@@ -60,7 +60,7 @@
         "wk:page":"Gornji_Be%C5%A1pelj"
     },
     "wof:country":"BA",
-    "wof:geomhash":"7fe9c24d34c046d7a98c271d8c24b51a",
+    "wof:geomhash":"d29031d6c4c54239674d0b4d32f6f40a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -86,5 +86,5 @@
     17.32082999999999,
     44.41933
 ],
-  "geometry": {"coordinates":[17.32082999999999,44.41933],"type":"Point"}
+  "geometry": {"coordinates":[17.32083,44.41933],"type":"Point"}
 }

@@ -57,7 +57,7 @@
         "wk:page":"Donji_%C4%8Ca%C5%BEanj"
     },
     "wof:country":"BA",
-    "wof:geomhash":"6143eb80027fe411cf8173afe608036f",
+    "wof:geomhash":"7d200d780ab362d79db8a156b10b8f08",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     17.83805,
     43.80524000000001
 ],
-  "geometry": {"coordinates":[17.83805,43.80524000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.83805,43.80524],"type":"Point"}
 }

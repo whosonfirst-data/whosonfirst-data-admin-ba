@@ -54,7 +54,7 @@
         "wk:page":"Kozja_Luka"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d96626d2cf0ca7fa4f40facf45c526e5",
+    "wof:geomhash":"7a65a7900c4d329b0b720995122e0d11",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     18.69905,
     43.54584000000001
 ],
-  "geometry": {"coordinates":[18.69905,43.54584000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.69905,43.54584],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Banja_Lu%C4%8Dica"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0089bdefe1cdccc73b052795fa3def89",
+    "wof:geomhash":"afa70ef356c328c1abfbe00eb64d99dd",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.62812000000001,
     44.03636
 ],
-  "geometry": {"coordinates":[18.62812000000001,44.03636],"type":"Point"}
+  "geometry": {"coordinates":[18.62812,44.03636],"type":"Point"}
 }

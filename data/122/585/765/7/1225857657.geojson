@@ -55,7 +55,7 @@
         "wk:page":"Vlaholje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"ec93a4ef0cf15f6a2086a4cf4f6dce00",
+    "wof:geomhash":"add06c1eda1b01ab7bc795a0ff90e51a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -81,5 +81,5 @@
     18.4405,
     43.52679000000001
 ],
-  "geometry": {"coordinates":[18.4405,43.52679000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.4405,43.52679],"type":"Point"}
 }

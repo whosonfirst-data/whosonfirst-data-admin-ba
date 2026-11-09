@@ -54,7 +54,7 @@
         "wk:page":"Prosje"
     },
     "wof:country":"BA",
-    "wof:geomhash":"16035079a0086de44a45ec1e34459efe",
+    "wof:geomhash":"c9eb0874a23dad4250e96914c4ca86cb",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.91708999999999,
     44.06227
 ],
-  "geometry": {"coordinates":[17.91708999999999,44.06227],"type":"Point"}
+  "geometry": {"coordinates":[17.91709,44.06227],"type":"Point"}
 }

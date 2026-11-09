@@ -63,7 +63,7 @@
         "wk:page":"Bezujno"
     },
     "wof:country":"BA",
-    "wof:geomhash":"23b628582f2067309baff8d3285b668e",
+    "wof:geomhash":"12f08e194dc75c957f636f6562f955f7",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     19.0,
     43.5745
 ],
-  "geometry": {"coordinates":[19.0,43.5745],"type":"Point"}
+  "geometry": {"coordinates":[19,43.5745],"type":"Point"}
 }

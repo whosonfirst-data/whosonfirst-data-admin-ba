@@ -63,7 +63,7 @@
         "wk:page":"Donja_Miso%C4%8Da"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d7425fe7962ba77fb3d3623963b265c9",
+    "wof:geomhash":"71a0c3b72aaa8af5b85c9f499905f4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.29049,
     43.95724000000001
 ],
-  "geometry": {"coordinates":[18.29049,43.95724000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.29049,43.95724],"type":"Point"}
 }

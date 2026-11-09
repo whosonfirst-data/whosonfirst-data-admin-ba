@@ -51,7 +51,7 @@
         "wk:page":"Hadrovci_%28Kiseljak%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a520d089b50b67b518d9c81c6ef84187",
+    "wof:geomhash":"3c28812508e3b1c5c610ad05564c3631",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.05639,
     43.99639000000001
 ],
-  "geometry": {"coordinates":[18.05639,43.99639000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.05639,43.99639],"type":"Point"}
 }

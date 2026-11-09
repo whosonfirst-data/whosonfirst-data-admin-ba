@@ -64,7 +64,7 @@
         "wk:page":"Grabovnik"
     },
     "wof:country":"BA",
-    "wof:geomhash":"556e7c53bb8ac03d5892dd4b3914a316",
+    "wof:geomhash":"1dd62dc4c01a88b0a141d83d92f07346",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -90,5 +90,5 @@
     17.48222,
     43.21722000000001
 ],
-  "geometry": {"coordinates":[17.48222,43.21722000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.48222,43.21722],"type":"Point"}
 }

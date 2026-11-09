@@ -54,7 +54,7 @@
         "wk:page":"Zara%C4%8De"
     },
     "wof:country":"BA",
-    "wof:geomhash":"5783098b9a159719546f4051392004e1",
+    "wof:geomhash":"a4631be802a6e22a852c6e6dc7ef5363",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -80,5 +80,5 @@
     17.99752999999999,
     44.08401
 ],
-  "geometry": {"coordinates":[17.99752999999999,44.08401],"type":"Point"}
+  "geometry": {"coordinates":[17.99753,44.08401],"type":"Point"}
 }

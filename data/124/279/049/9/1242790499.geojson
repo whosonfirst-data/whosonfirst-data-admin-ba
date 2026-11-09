@@ -63,7 +63,7 @@
         "wk:page":"%C4%86emanovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"69528fdf15e51aa0fbaab2b0c95aff89",
+    "wof:geomhash":"52a17aabeb75e8898db7dcc64559f9e5",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     18.62727000000001,
     43.82836
 ],
-  "geometry": {"coordinates":[18.62727000000001,43.82836],"type":"Point"}
+  "geometry": {"coordinates":[18.62727,43.82836],"type":"Point"}
 }

@@ -63,7 +63,7 @@
         "wk:page":"Cerno"
     },
     "wof:country":"BA",
-    "wof:geomhash":"0f7fa8ec7dd9d453fddb1a3184838b3d",
+    "wof:geomhash":"7d7a062e196b572bbd9489f10901512a",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -89,5 +89,5 @@
     17.62199,
     43.21234000000001
 ],
-  "geometry": {"coordinates":[17.62199,43.21234000000001],"type":"Point"}
+  "geometry": {"coordinates":[17.62199,43.21234],"type":"Point"}
 }

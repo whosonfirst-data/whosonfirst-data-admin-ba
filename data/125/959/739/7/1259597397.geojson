@@ -57,7 +57,7 @@
         "wk:page":"%C4%8Custo_Brdo"
     },
     "wof:country":"BA",
-    "wof:geomhash":"d70042997e5457f284e98a1b9cf37baa",
+    "wof:geomhash":"56b522355a7e264496e045c2440816be",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -83,5 +83,5 @@
     18.06789,
     44.51629000000001
 ],
-  "geometry": {"coordinates":[18.06789,44.51629000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.06789,44.51629],"type":"Point"}
 }

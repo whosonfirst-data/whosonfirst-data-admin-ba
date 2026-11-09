@@ -46,7 +46,7 @@
         "wk:page":"Biokovo_%28Fo%C4%8Da%29"
     },
     "wof:country":"BA",
-    "wof:geomhash":"dccb9d9705b6c5da8d9a8ca19461597a",
+    "wof:geomhash":"fb9b6906e038fc042281b17eb60cfdb9",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -72,5 +72,5 @@
     18.79455,
     43.49404000000001
 ],
-  "geometry": {"coordinates":[18.79455,43.49404000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.79455,43.49404],"type":"Point"}
 }

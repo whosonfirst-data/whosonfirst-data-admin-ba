@@ -51,7 +51,7 @@
         "wk:page":"Ozerkovi%C4%87i"
     },
     "wof:country":"BA",
-    "wof:geomhash":"46cf1777b5861d55aa37a0a2d9b58181",
+    "wof:geomhash":"b93c6275487de417b88bff9e633a4f16",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     18.81152,
     43.83844000000001
 ],
-  "geometry": {"coordinates":[18.81152,43.83844000000001],"type":"Point"}
+  "geometry": {"coordinates":[18.81152,43.83844],"type":"Point"}
 }

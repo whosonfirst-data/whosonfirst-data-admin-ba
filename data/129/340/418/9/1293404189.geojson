@@ -61,7 +61,7 @@
         "wk:page":"Donji_Moranjci"
     },
     "wof:country":"BA",
-    "wof:geomhash":"a1cda8c0c39718cd80730d476f2774b6",
+    "wof:geomhash":"d815b63377d2aa0e35bb5511cd02a9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -87,5 +87,5 @@
     18.46267000000001,
     44.69296
 ],
-  "geometry": {"coordinates":[18.46267000000001,44.69296],"type":"Point"}
+  "geometry": {"coordinates":[18.46267,44.69296],"type":"Point"}
 }
