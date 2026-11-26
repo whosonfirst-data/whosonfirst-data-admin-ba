@@ -1,0 +1,75 @@
+{
+  "id": 9895011344,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.14148,43.78079,18.14148,43.78079",
+    "geom:latitude":43.78079,
+    "geom:longitude":18.14148,
+    "gn:population":103,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580411: name \"Lihovici\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580411"
+        },
+        {
+            "citation":"GeoNames populated place 13580411: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580411"
+        },
+        {
+            "citation":"GeoNames populated place 13580411: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580411"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759101 (Hadzici), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609,
+        85669235,
+        102191581,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580411
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"7980ab277b3974d956aed6ea5015ba55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":9895011344,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":9895011344,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Lihovici",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.14148,
+    43.78079,
+    18.14148,
+    43.78079
+],
+  "geometry": {"coordinates":[18.14148,43.78079],"type":"Point"}
+}

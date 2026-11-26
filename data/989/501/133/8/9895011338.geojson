@@ -1,0 +1,75 @@
+{
+  "id": 9895011338,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.08971,44.42189,18.08971,44.42189",
+    "geom:latitude":44.42189,
+    "geom:longitude":18.08971,
+    "gn:population":34,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12070020: name \"Kr\u0161evi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12070020"
+        },
+        {
+            "citation":"GeoNames populated place 12070020: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12070020"
+        },
+        {
+            "citation":"GeoNames populated place 12070020: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12070020"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759299 (Zepce), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609,
+        85669231,
+        102191581,
+        1108759299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12070020
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"5a0f0c9a59f0c43b7e30663823f3a64f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759299,
+            "locality_id":9895011338,
+            "region_id":85669231
+        }
+    ],
+    "wof:id":9895011338,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Kr\u0161evi",
+    "wof:parent_id":1108759299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.08971,
+    44.42189,
+    18.08971,
+    44.42189
+],
+  "geometry": {"coordinates":[18.08971,44.42189],"type":"Point"}
+}

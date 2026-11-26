@@ -1,0 +1,74 @@
+{
+  "id": 9895011346,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.47913,43.95366,18.47913,43.95366",
+    "geom:latitude":43.95366,
+    "geom:longitude":18.47913,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580469: name \"Luka kod Stublina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580469"
+        },
+        {
+            "citation":"GeoNames populated place 13580469: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580469"
+        },
+        {
+            "citation":"GeoNames populated place 13580469: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580469"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759109 (Ilijas), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609,
+        85669235,
+        102191581,
+        1108759109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580469
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"b68e082d6518fe51a371032017618596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759109,
+            "locality_id":9895011346,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":9895011346,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Luka kod Stublina",
+    "wof:parent_id":1108759109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.47913,
+    43.95366,
+    18.47913,
+    43.95366
+],
+  "geometry": {"coordinates":[18.47913,43.95366],"type":"Point"}
+}

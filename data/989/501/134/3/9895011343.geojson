@@ -1,0 +1,74 @@
+{
+  "id": 9895011343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"18.19268,43.83273,18.19268,43.83273",
+    "geom:latitude":43.83273,
+    "geom:longitude":18.19268,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580410: name \"Kucice\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580410"
+        },
+        {
+            "citation":"GeoNames populated place 13580410: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580410"
+        },
+        {
+            "citation":"GeoNames populated place 13580410: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580410"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759101 (Hadzici), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609,
+        85669235,
+        102191581,
+        1108759101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580410
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"238576aaac4b954c534554901bb7c1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759101,
+            "locality_id":9895011343,
+            "region_id":85669235
+        }
+    ],
+    "wof:id":9895011343,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Kucice",
+    "wof:parent_id":1108759101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    18.19268,
+    43.83273,
+    18.19268,
+    43.83273
+],
+  "geometry": {"coordinates":[18.19268,43.83273],"type":"Point"}
+}
