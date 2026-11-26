@@ -1,0 +1,74 @@
+{
+  "id": 9895011341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.878,44.98856,17.878,44.98856",
+    "geom:latitude":44.98856,
+    "geom:longitude":17.878,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12719216: name \"Svilengrad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12719216"
+        },
+        {
+            "citation":"GeoNames populated place 12719216: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12719216"
+        },
+        {
+            "citation":"GeoNames populated place 12719216: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12719216"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759051 (Derventa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632267,
+        85632609,
+        102191581,
+        1108759051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12719216
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"390cea6f3c0f47d04b5d7b5e07740624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759051,
+            "locality_id":9895011341,
+            "region_id":85632267
+        }
+    ],
+    "wof:id":9895011341,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Svilengrad",
+    "wof:parent_id":1108759051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.878,
+    44.98856,
+    17.878,
+    44.98856
+],
+  "geometry": {"coordinates":[17.878,44.98856],"type":"Point"}
+}

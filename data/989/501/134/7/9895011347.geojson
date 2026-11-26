@@ -1,0 +1,74 @@
+{
+  "id": 9895011347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"17.58079,43.38601,17.58079,43.38601",
+    "geom:latitude":43.38601,
+    "geom:longitude":17.58079,
+    "iso:country":"BA",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13665004: name \"Puringaj\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13665004"
+        },
+        {
+            "citation":"GeoNames populated place 13665004: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13665004"
+        },
+        {
+            "citation":"GeoNames populated place 13665004: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13665004"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759231 (Siroki Brijeg), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632609,
+        85669217,
+        102191581,
+        1108759231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13665004
+    },
+    "wof:country":"BA",
+    "wof:geomhash":"e0ac7573ceb18b454ad5bf4fe7b0d13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632609,
+            "county_id":1108759231,
+            "locality_id":9895011347,
+            "region_id":85669217
+        }
+    ],
+    "wof:id":9895011347,
+    "wof:lastmodified":1795735184,
+    "wof:name":"Puringaj",
+    "wof:parent_id":1108759231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ba",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    17.58079,
+    43.38601,
+    17.58079,
+    43.38601
+],
+  "geometry": {"coordinates":[17.58079,43.38601],"type":"Point"}
+}
